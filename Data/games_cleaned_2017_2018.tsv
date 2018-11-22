@@ -1,0 +1,1231 @@
+date	away	home	opening_spread	away_ML	home_ML	away_pts	home_pts	result
+20171017	Boston	Cleveland	-3.0	155	-175	99	102	-3
+20171017	Houston	Golden State	-9.0	385	-485	122	121	1
+20171018	Brooklyn	Indiana	-3.5	145	-165	131	140	-9
+20171018	Miami	Orlando	3.0	-150	130	109	116	-7
+20171018	Milwaukee	Boston	-5.5	205	-245	108	100	8
+20171018	Atlanta	Dallas	-6.5	220	-260	117	111	6
+20171018	Minnesota	San Antonio	-1.0	105	-125	99	107	-8
+20171018	Philadelphia	Washington	-7.0	255	-310	115	120	-5
+20171018	Charlotte	Detroit	-3.0	145	-165	90	102	-12
+20171018	New Orleans	Memphis	-3.0	135	-155	91	103	-12
+20171018	Denver	Utah	-2.0	110	-130	96	106	-10
+20171018	Houston	Sacramento	8.5	-360	300	105	100	5
+20171018	Portland	Phoenix	1.0	-123	103	124	76	48
+20171019	Chicago	Toronto	-11.0	750	-950	100	117	-17
+20171019	New York	Oklahoma City	-11.0	575	-850	84	105	-21
+20171019	L.A. Clippers	L.A. Lakers	4.5	-195	180	108	92	16
+20171020	Boston	Philadelphia	1.0	105	-125	102	92	10
+20171020	Detroit	Washington	-6.5	200	-240	111	115	-4
+20171020	Portland	Indiana	3.5	-165	145	114	96	18
+20171020	Utah	Minnesota	-5.5	165	-190	97	100	-3
+20171020	Golden State	New Orleans	6.5	-320	260	128	120	8
+20171020	Atlanta	Charlotte	-6.0	200	-240	91	109	-18
+20171020	Cleveland	Milwaukee	1.5	-135	115	116	97	19
+20171020	Orlando	Brooklyn	-1.5	105	-125	121	126	-5
+20171020	Sacramento	Dallas	-5.5	180	-220	93	88	5
+20171020	L.A. Lakers	Phoenix	-3.0	130	-150	132	130	2
+20171021	Philadelphia	Toronto	-7.5	415	-525	94	128	-34
+20171021	Dallas	Houston	-10.5	700	-1100	91	107	-16
+20171021	Indiana	Miami	-8.5	425	-550	108	112	-4
+20171021	Golden State	Memphis	7.5	-440	350	101	111	-10
+20171021	Sacramento	Denver	-11.0	500	-700	79	96	-17
+20171021	Orlando	Cleveland	-11.0	600	-900	114	93	21
+20171021	Detroit	New York	1.5	-125	105	111	107	4
+20171021	San Antonio	Chicago	8.0	-550	425	87	77	10
+20171021	Portland	Milwaukee	-4.5	145	-165	110	113	-3
+20171021	Oklahoma City	Utah	4.0	-210	175	87	96	-9
+20171021	Phoenix	L.A. Clippers	-11.5	800	-1250	88	130	-42
+20171022	Atlanta	Brooklyn	-2.5	125	-135	104	116	-12
+20171022	Minnesota	Oklahoma City	-4.5	165	-175	115	113	2
+20171022	New Orleans	L.A. Lakers	4.0	-175	155	119	112	7
+20171023	Philadelphia	Detroit	-4.5	145	-155	97	86	11
+20171023	Memphis	Houston	-8.0	250	-300	98	90	8
+20171023	Golden State	Dallas	10.5	-750	600	133	103	30
+20171023	Washington	Denver	-3.5	135	-145	109	104	5
+20171023	Atlanta	Miami	-9.0	500	-700	93	104	-11
+20171023	Charlotte	Milwaukee	-6.0	235	-255	94	103	-9
+20171023	Toronto	San Antonio	-2.5	135	-145	97	101	-4
+20171023	Sacramento	Phoenix	-2.0	110	-120	115	117	-2
+20171024	Brooklyn	Orlando	-3.5	160	-185	121	125	-4
+20171024	New York	Boston	-9.0	310	-370	89	110	-21
+20171024	New Orleans	Portland	-4.5	173	-205	93	103	-10
+20171024	Chicago	Cleveland	-14.0	1000	-1500	112	119	-7
+20171024	Indiana	Minnesota	-11.0	525	-750	130	107	23
+20171024	Utah	L.A. Clippers	-3.5	165	-190	84	102	-18
+20171025	Minnesota	Detroit	1.5	-118	108	101	122	-21
+20171025	Denver	Charlotte	1.5	-125	105	93	110	-17
+20171025	San Antonio	Miami	3.5	-165	145	117	100	17
+20171025	Memphis	Dallas	5.0	-190	165	94	103	-9
+20171025	Washington	L.A. Lakers	6.0	-245	205	99	102	-3
+20171025	Houston	Philadelphia	3.5	-150	130	105	104	1
+20171025	Cleveland	Brooklyn	7.0	-270	230	107	112	-5
+20171025	Indiana	Oklahoma City	-14.5	850	-1300	96	114	-18
+20171025	Utah	Phoenix	6.0	-210	175	88	97	-9
+20171025	Toronto	Golden State	-12.5	725	-925	112	117	-5
+20171026	Dallas	Memphis	-8.0	280	-340	91	96	-5
+20171026	Atlanta	Chicago	-2.5	125	-145	86	91	-5
+20171026	Boston	Milwaukee	-4.5	155	-175	96	89	7
+20171026	L.A. Clippers	Portland	-2.0	110	-130	104	103	1
+20171026	New Orleans	Sacramento	-2.0	110	-130	114	106	8
+20171027	San Antonio	Orlando	5.5	-220	180	87	114	-27
+20171027	Brooklyn	New York	-2.0	120	-140	86	107	-21
+20171027	Oklahoma City	Minnesota	2.5	-155	135	116	119	-3
+20171027	Houston	Charlotte	2.5	-140	120	109	93	16
+20171027	Denver	Atlanta	8.5	-320	260	105	100	5
+20171027	Toronto	L.A. Lakers	6.5	-235	195	101	92	9
+20171027	Washington	Golden State	-10.5	425	-550	117	120	-3
+20171028	Cleveland	New Orleans	4.0	-170	150	101	123	-22
+20171028	Boston	Miami	1.5	-123	103	96	90	6
+20171028	Philadelphia	Dallas	1.0	-117	-103	112	110	2
+20171028	Phoenix	Portland	-10.5	450	-600	107	114	-7
+20171028	Houston	Memphis	-1.0	-103	-117	89	103	-14
+20171028	Oklahoma City	Chicago	8.5	-380	315	101	69	32
+20171028	L.A. Lakers	Utah	-10.0	-112	102	81	96	-15
+20171028	Detroit	L.A. Clippers	-7.0	245	-290	95	87	8
+20171029	Milwaukee	Atlanta	5.5	-210	175	117	106	11
+20171029	Orlando	Charlotte	-3.5	140	-160	113	120	-7
+20171029	Denver	Brooklyn	4.5	-175	155	124	111	13
+20171029	San Antonio	Indiana	7.0	-280	240	94	97	-3
+20171029	Washington	Sacramento	6.0	-190	175	110	83	27
+20171029	New York	Cleveland	-9.5	375	-470	114	95	19
+20171029	Detroit	Golden State	-13.0	975	-1175	115	107	8
+20171030	San Antonio	Boston	-3.0	145	-165	94	108	-14
+20171030	Minnesota	Miami	1.5	-150	130	125	122	3
+20171030	Orlando	New Orleans	-7.5	270	-330	115	99	16
+20171030	Dallas	Utah	-7.5	255	-310	89	104	-15
+20171030	Denver	New York	3.5	-160	140	110	116	-6
+20171030	Charlotte	Memphis	-7.0	205	-245	104	99	5
+20171030	Philadelphia	Houston	-6.0	205	-245	115	107	8
+20171030	Toronto	Portland	-2.0	110	-130	99	85	14
+20171030	Golden State	L.A. Clippers	4.5	-200	170	141	113	28
+20171031	Sacramento	Indiana	-6.0	175	-210	83	101	-18
+20171031	Oklahoma City	Milwaukee	1.0	-125	105	110	91	19
+20171031	Phoenix	Brooklyn	-3.0	155	-175	122	114	8
+20171031	Detroit	L.A. Lakers	4.5	-160	140	93	113	-20
+20171101	Phoenix	Washington	-13.0	750	-950	122	116	6
+20171101	Atlanta	Philadelphia	-8.5	325	-360	109	119	-10
+20171101	Sacramento	Boston	-12.5	800	-1000	86	113	-27
+20171101	Orlando	Memphis	-4.0	145	-165	101	99	2
+20171101	Minnesota	New Orleans	-1.5	115	-125	104	98	6
+20171101	Portland	Utah	-4.0	160	-170	103	112	-9
+20171101	Milwaukee	Charlotte	-3.0	140	-160	121	126	-5
+20171101	Indiana	Cleveland	-11.0	450	-600	124	107	17
+20171101	Chicago	Miami	-9.5	400	-500	91	97	-6
+20171101	Houston	New York	5.0	-200	185	119	97	22
+20171101	Toronto	Denver	-1.0	110	-120	111	129	-18
+20171101	Dallas	L.A. Clippers	-9.0	380	-475	98	119	-21
+20171102	Golden State	San Antonio	6.5	-265	225	112	92	20
+20171102	L.A. Lakers	Portland	-8.5	220	-260	110	113	-3
+20171103	Cleveland	Washington	-3.5	155	-165	130	122	8
+20171103	Milwaukee	Detroit	-2.0	-102	-118	96	105	-9
+20171103	Houston	Atlanta	8.0	-330	270	119	104	15
+20171103	Charlotte	San Antonio	-3.0	125	-145	101	108	-7
+20171103	Toronto	Utah	-1.0	103	-123	109	100	9
+20171103	Boston	Oklahoma City	-5.5	180	-220	101	94	7
+20171103	Chicago	Orlando	-8.0	270	-330	105	83	22
+20171103	Indiana	Philadelphia	-6.0	215	-235	110	121	-11
+20171103	Phoenix	New York	-4.0	150	-160	107	120	-13
+20171103	New Orleans	Dallas	4.5	-190	165	99	94	5
+20171103	Miami	Denver	-5.0	170	-200	94	95	-1
+20171103	Brooklyn	L.A. Lakers	-2.0	125	-145	112	124	-12
+20171104	Memphis	L.A. Clippers	-5.5	205	-225	113	104	9
+20171104	New Orleans	Chicago	7.0	-240	200	96	90	6
+20171104	Sacramento	Detroit	-8.5	350	-440	99	108	-9
+20171104	Dallas	Minnesota	-12.5	800	-1250	99	112	-13
+20171104	Golden State	Denver	7.5	-380	315	127	108	19
+20171105	Atlanta	Cleveland	-13.5	650	-1000	117	115	2
+20171105	Washington	Toronto	-5.0	175	-210	107	96	11
+20171105	Utah	Houston	-7.0	220	-240	110	137	-27
+20171105	Indiana	New York	-2.0	120	-130	101	108	-7
+20171105	Oklahoma City	Portland	3.0	-135	125	99	103	-4
+20171105	Miami	L.A. Clippers	-58.5	180	-220	104	101	3
+20171105	Boston	Orlando	3.0	-155	135	104	88	16
+20171105	Phoenix	San Antonio	-10.5	475	-650	95	112	-17
+20171105	Charlotte	Minnesota	-5.0	180	-220	94	112	-18
+20171105	Memphis	L.A. Lakers	1.5	-118	108	102	107	-5
+20171106	Boston	Atlanta	8.0	-340	280	110	107	3
+20171106	Brooklyn	Phoenix	-1.0	100	-120	98	92	6
+20171106	Miami	Golden State	-16.5	1300	-1650	80	97	-17
+20171107	Milwaukee	Cleveland	-4.0	155	-165	119	124	-5
+20171107	New Orleans	Indiana	-1.0	-102	-118	117	112	5
+20171107	Charlotte	New York	1.0	-105	-105	113	118	-5
+20171107	Philadelphia	Utah	-7.0	235	-275	104	97	7
+20171107	Memphis	Portland	-3.5	140	-160	98	97	1
+20171107	Dallas	Washington	-11.0	470	-555	113	99	14
+20171107	Chicago	Toronto	-11.0	535	-650	114	119	-5
+20171107	L.A. Clippers	San Antonio	-3.0	150	-160	107	120	-13
+20171107	Brooklyn	Denver	-11.5	635	-800	104	112	-8
+20171107	Oklahoma City	Sacramento	11.0	-525	450	86	94	-8
+20171108	New York	Orlando	-5.0	175	-210	99	112	-13
+20171108	L.A. Lakers	Boston	-9.0	310	-370	96	107	-11
+20171108	Indiana	Detroit	-6.5	255	-310	97	114	-17
+20171108	Miami	Phoenix	5.5	-210	175	126	115	11
+20171108	Minnesota	Golden State	-10.5	475	-650	101	125	-24
+20171109	L.A. Lakers	Washington	-10.0	455	-530	95	111	-16
+20171109	Cleveland	Houston	-5.5	170	-200	113	117	-4
+20171109	New Orleans	Toronto	-4.5	170	-200	118	122	-4
+20171109	Philadelphia	Sacramento	6.5	-260	220	108	109	-1
+20171109	Oklahoma City	Denver	0.0	-117	-103	94	102	-8
+20171110	Atlanta	Detroit	-8.5	300	-360	104	111	-7
+20171110	Indiana	Chicago	4.0	-175	155	105	87	18
+20171110	Orlando	Phoenix	3.0	-165	145	128	112	16
+20171110	L.A. Clippers	Oklahoma City	-6.0	200	-240	111	120	-9
+20171110	Charlotte	Boston	-4.0	160	-170	87	90	-3
+20171110	Milwaukee	San Antonio	-4.5	160	-185	94	87	7
+20171110	Miami	Utah	-3.0	130	-150	84	74	10
+20171110	Brooklyn	Portland	-8.5	305	-365	101	97	4
+20171111	Atlanta	Washington	-11.0	475	-650	94	113	-19
+20171111	Memphis	Houston	-5.5	200	-240	96	111	-15
+20171111	Cleveland	Dallas	5.5	-220	180	111	104	7
+20171111	Philadelphia	Golden State	-14.0	1000	-1500	114	135	-21
+20171111	Orlando	Denver	-8.0	260	-320	107	125	-18
+20171111	L.A. Clippers	New Orleans	-5.5	240	-280	103	111	-8
+20171111	Sacramento	New York	-4.5	175	-210	91	118	-27
+20171111	L.A. Lakers	Milwaukee	-5.0	190	-230	90	98	-8
+20171111	Chicago	San Antonio	-12.0	475	-650	94	133	-39
+20171111	Brooklyn	Utah	-9.0	300	-360	106	114	-8
+20171111	Minnesota	Phoenix	9.5	-420	335	110	118	-8
+20171112	Toronto	Boston	2.5	-125	105	94	95	-1
+20171112	Houston	Indiana	2.5	-145	125	118	95	23
+20171112	Miami	Detroit	-3.0	130	-150	103	112	-9
+20171112	Dallas	Oklahoma City	-12.0	635	-800	99	112	-13
+20171113	Sacramento	Washington	-11.5	600	-900	92	110	-18
+20171113	Memphis	Milwaukee	-3.0	150	-170	103	110	-7
+20171113	Minnesota	Utah	3.5	-160	140	109	98	11
+20171113	Denver	Portland	-2.0	100	-120	82	99	-17
+20171113	Cleveland	New York	3.5	-190	165	104	101	3
+20171113	Atlanta	New Orleans	-9.5	360	-450	105	106	-1
+20171113	L.A. Lakers	Phoenix	1.0	105	-125	100	93	7
+20171113	Philadelphia	L.A. Clippers	-2.0	-102	-118	109	105	4
+20171113	Orlando	Golden State	-14.5	650	-1000	100	110	-10
+20171114	Boston	Brooklyn	7.5	-270	248	109	102	7
+20171114	Toronto	Houston	-6.0	215	-255	129	113	16
+20171114	San Antonio	Dallas	6.5	-255	215	97	91	6
+20171115	Washington	Miami	-1.5	-102	-118	102	93	9
+20171115	Sacramento	Atlanta	-3.5	145	-165	80	126	-46
+20171115	Cleveland	Charlotte	-1.5	-125	105	115	107	8
+20171115	Chicago	Oklahoma City	-12.0	600	-900	79	92	-13
+20171115	Detroit	Milwaukee	-4.0	150	-170	95	99	-4
+20171115	Utah	New York	-4.0	150	-170	101	106	-5
+20171115	San Antonio	Minnesota	-5.0	175	-210	86	98	-12
+20171115	Toronto	New Orleans	-3.5	145	-165	125	116	9
+20171115	Indiana	Memphis	-4.5	160	-185	116	113	3
+20171115	Orlando	Portland	-5.5	175	-210	94	99	-5
+20171115	Philadelphia	L.A. Lakers	2.5	-155	135	115	109	6
+20171116	Golden State	Boston	6.5	-270	230	88	92	-4
+20171116	Houston	Phoenix	11.5	-900	600	142	116	26
+20171117	Detroit	Indiana	-1.5	110	-130	100	107	-7
+20171117	New York	Toronto	-7.5	275	-335	84	107	-23
+20171117	Utah	Brooklyn	1.5	-123	103	107	118	-11
+20171117	Charlotte	Chicago	7.0	-270	230	120	123	-3
+20171117	Portland	Sacramento	8.0	-300	250	82	86	-4
+20171117	Miami	Washington	-4.5	158	-180	91	88	3
+20171117	L.A. Clippers	Cleveland	-6.5	225	-265	113	118	-5
+20171117	Oklahoma City	San Antonio	0.0	-110	-110	101	104	-3
+20171117	Minnesota	Dallas	7.5	-265	225	111	87	24
+20171117	New Orleans	Denver	-4.0	158	-180	114	146	-32
+20171117	Phoenix	L.A. Lakers	-6.0	225	-265	122	113	9
+20171118	L.A. Clippers	Charlotte	-4.5	165	-190	87	102	-15
+20171118	Golden State	Philadelphia	8.5	-380	315	124	116	8
+20171118	Houston	Memphis	6.0	-275	235	105	83	22
+20171118	Utah	Orlando	-6.5	250	-300	125	85	40
+20171118	Boston	Atlanta	6.5	-265	225	110	99	11
+20171118	Milwaukee	Dallas	7.5	-320	260	79	111	-32
+20171118	Sacramento	Portland	-11.5	650	-1000	90	102	-12
+20171119	Washington	Toronto	-5.5	200	-240	91	100	-9
+20171119	Golden State	Brooklyn	13.0	-1000	650	118	111	7
+20171119	Chicago	Phoenix	-2.5	135	-155	105	113	-8
+20171119	Indiana	Miami	-3.0	160	-185	120	95	25
+20171119	Detroit	Minnesota	-5.0	190	-230	100	97	3
+20171119	Denver	L.A. Lakers	5.0	-200	170	109	127	-18
+20171120	Utah	Philadelphia	-7.0	265	-295	86	107	-21
+20171120	Minnesota	Charlotte	-1.5	120	-130	102	118	-16
+20171120	L.A. Clippers	New York	-1.5	105	-125	85	107	-22
+20171120	Washington	Milwaukee	-5.0	175	-210	99	88	11
+20171120	Atlanta	San Antonio	-9.0	390	-440	85	96	-11
+20171120	Cleveland	Detroit	2.5	-130	120	116	88	28
+20171120	Indiana	Orlando	-3.5	140	-160	105	97	8
+20171120	Portland	Memphis	1.0	-135	115	100	92	8
+20171120	Oklahoma City	New Orleans	2.5	-140	130	107	114	-7
+20171120	Boston	Dallas	8.0	-335	305	110	102	8
+20171120	Denver	Sacramento	7.5	-255	235	114	98	16
+20171121	Chicago	L.A. Lakers	-5.5	185	-225	94	103	-9
+20171122	Washington	Charlotte	-2.5	115	-135	124	129	-5
+20171122	Portland	Philadelphia	-3.0	150	-170	81	101	-20
+20171122	Toronto	New York	4.0	-170	150	100	108	-8
+20171122	Orlando	Minnesota	-7.0	250	-300	118	124	-6
+20171122	Denver	Houston	-9.5	385	-485	95	125	-30
+20171122	San Antonio	New Orleans	-2.0	110	-130	90	107	-17
+20171122	Milwaukee	Phoenix	5.0	-210	175	113	107	6
+20171122	Brooklyn	Cleveland	-11.0	575	-850	109	119	-10
+20171122	L.A. Clippers	Atlanta	3.0	-155	135	116	103	13
+20171122	Boston	Miami	3.0	-150	130	98	104	-6
+20171122	Golden State	Oklahoma City	4.5	-210	175	91	108	-17
+20171122	Dallas	Memphis	-5.5	190	-230	95	94	1
+20171122	Chicago	Utah	-8.5	360	-450	80	110	-30
+20171122	L.A. Lakers	Sacramento	1.0	-117	-103	102	113	-11
+20171124	Portland	Brooklyn	3.5	-165	145	127	125	2
+20171124	Orlando	Boston	-8.5	315	-380	103	118	-15
+20171124	Miami	Minnesota	-4.0	150	-170	109	97	12
+20171124	Charlotte	Cleveland	-5.5	170	-230	99	100	-1
+20171124	New Orleans	Phoenix	6.0	-235	195	115	91	24
+20171124	New York	Atlanta	2.0	-135	115	104	116	-12
+20171124	Detroit	Oklahoma City	-8.0	275	-335	99	98	1
+20171124	Toronto	Indiana	0.0	-123	103	104	107	-3
+20171124	Memphis	Denver	-6.0	205	-245	92	104	-12
+20171124	Chicago	Golden State	-19.5	1025	-1250	94	143	-49
+20171125	Orlando	Philadelphia	-4.0	175	-210	111	130	-19
+20171125	Portland	Washington	-3.5	160	-185	108	105	3
+20171125	Boston	Indiana	2.0	-150	140	108	98	10
+20171125	New Orleans	Golden State	-13.0	635	-800	95	110	-15
+20171125	Milwaukee	Utah	1.5	-123	103	108	121	-13
+20171125	San Antonio	Charlotte	1.0	-117	-103	106	86	20
+20171125	Toronto	Atlanta	7.0	-240	220	112	78	34
+20171125	New York	Houston	-13.0	1100	-1400	102	117	-15
+20171125	Oklahoma City	Dallas	6.0	-210	175	81	97	-16
+20171125	L.A. Clippers	Sacramento	4.5	-175	155	97	95	2
+20171126	Miami	Chicago	6.5	-260	180	100	93	7
+20171126	Phoenix	Minnesota	-11.5	570	-705	108	119	-11
+20171126	Brooklyn	Memphis	-5.5	180	-220	98	88	10
+20171127	Orlando	Indiana	-4.0	155	-165	109	121	-12
+20171127	Portland	New York	1.5	-123	103	103	91	12
+20171127	Brooklyn	Houston	-16.0	1400	-2500	103	117	-14
+20171127	Sacramento	Golden State	-14.5	900	-1100	110	106	4
+20171127	Cleveland	Philadelphia	2.0	-113	103	113	91	22
+20171127	Detroit	Boston	-6.5	220	-260	118	108	10
+20171127	Dallas	San Antonio	-9.5	360	-450	108	115	-7
+20171127	L.A. Lakers	L.A. Clippers	-4.5	165	-190	115	120	-5
+20171128	Miami	Cleveland	-3.5	145	-165	97	108	-11
+20171128	Phoenix	Chicago	0.0	103	-123	104	99	5
+20171128	Washington	Minnesota	-5.5	185	-200	92	89	3
+20171128	Denver	Utah	-1.5	105	-125	77	106	-29
+20171128	Milwaukee	Sacramento	7.0	-300	250	112	87	25
+20171129	Washington	Philadelphia	-5.0	185	-200	113	118	-5
+20171129	Oklahoma City	Orlando	6.0	-230	190	108	121	-13
+20171129	Miami	New York	1.0	-117	-103	86	115	-29
+20171129	Minnesota	New Orleans	-5.0	175	-210	120	102	18
+20171129	Brooklyn	Dallas	-4.5	190	-210	109	104	5
+20171129	Phoenix	Detroit	-12.0	650	-1000	107	131	-24
+20171129	Charlotte	Toronto	-8.0	300	-360	113	126	-13
+20171129	Indiana	Houston	-12.0	600	-750	97	118	-21
+20171129	Memphis	San Antonio	-8.0	290	-350	95	104	-9
+20171129	Golden State	L.A. Lakers	10.0	-600	450	127	123	4
+20171130	Philadelphia	Boston	-9.0	325	-400	97	108	-11
+20171130	Chicago	Denver	-12.0	575	-850	110	111	-1
+20171130	Cleveland	Atlanta	7.5	-320	260	121	114	7
+20171130	Milwaukee	Portland	-2.0	130	-150	103	91	12
+20171130	Utah	L.A. Clippers	1.0	-130	110	126	107	19
+20171201	Detroit	Washington	1.0	-118	108	91	109	-18
+20171201	Indiana	Toronto	-6.5	245	-290	115	120	-5
+20171201	San Antonio	Memphis	4.0	-170	150	95	79	16
+20171201	Charlotte	Miami	-2.0	115	-125	100	105	-5
+20171201	Golden State	Orlando	11.0	-650	475	133	112	21
+20171201	Minnesota	Oklahoma City	-4.5	160	-185	107	111	-4
+20171201	Sacramento	Chicago	1.5	-125	105	107	106	1
+20171201	New Orleans	Utah	2.5	-135	115	108	114	-6
+20171202	Phoenix	Boston	-13.0	800	-1250	111	116	-5
+20171202	Atlanta	Brooklyn	-4.0	160	-185	114	102	12
+20171202	Memphis	Cleveland	-11.5	550	-800	111	116	-5
+20171202	L.A. Lakers	Denver	-5.5	167	-178	100	115	-15
+20171202	L.A. Clippers	Dallas	-5.0	175	-210	82	108	-26
+20171202	Detroit	Philadelphia	-5.0	175	-210	103	108	-5
+20171202	Sacramento	Milwaukee	-11.5	550	-800	104	109	-5
+20171202	New Orleans	Portland	-4.0	225	-245	123	116	7
+20171203	Orlando	New York	-1.5	110	-120	105	100	5
+20171203	L.A. Clippers	Minnesota	-11.5	625	-950	106	112	-6
+20171203	Golden State	Miami	10.5	-475	420	123	95	28
+20171203	San Antonio	Oklahoma City	-4.5	155	-175	87	90	-3
+20171203	Houston	L.A. Lakers	11.0	-900	600	118	95	23
+20171204	New York	Indiana	-9.5	420	-475	97	115	-18
+20171204	Phoenix	Philadelphia	-10.5	500	-700	115	101	14
+20171204	Brooklyn	Atlanta	-2.0	110	-130	110	90	20
+20171204	Minnesota	Memphis	2.0	-145	125	92	95	-3
+20171204	Denver	Dallas	-2.5	130	-150	105	122	-17
+20171204	Orlando	Charlotte	-8.0	265	-325	94	104	-10
+20171204	Milwaukee	Boston	-6.0	185	-225	100	111	-11
+20171204	Cleveland	Chicago	9.0	-430	345	113	91	22
+20171204	Golden State	New Orleans	9.5	-430	345	125	115	10
+20171204	Detroit	San Antonio	-3.5	145	-165	93	96	-3
+20171204	Washington	Utah	-3.0	130	-150	69	116	-47
+20171205	Phoenix	Toronto	-13.5	700	-1100	113	126	-13
+20171205	Utah	Oklahoma City	-7.0	255	-280	94	100	-6
+20171205	Washington	Portland	-5.5	190	-230	106	92	14
+20171206	Atlanta	Orlando	-6.0	205	-245	106	110	-4
+20171206	Sacramento	Cleveland	-12.5	700	-1100	95	101	-6
+20171206	Dallas	Boston	-9.0	325	-400	90	97	-7
+20171206	Golden State	Charlotte	5.0	-210	175	101	87	14
+20171206	Miami	San Antonio	-7.5	275	-335	105	117	-12
+20171206	Chicago	Indiana	-9.5	360	-450	96	98	-2
+20171206	Memphis	New York	-2.5	120	-140	88	99	-11
+20171206	Denver	New Orleans	-4.0	160	-185	114	123	-9
+20171206	Detroit	Milwaukee	-3.0	130	-150	100	104	-4
+20171206	Minnesota	L.A. Clippers	5.5	-225	185	113	107	6
+20171207	L.A. Lakers	Philadelphia	-8.0	260	-320	107	104	3
+20171207	Oklahoma City	Brooklyn	7.5	-300	250	95	100	-5
+20171207	Washington	Phoenix	7.5	-350	290	109	99	10
+20171207	Houston	Utah	5.0	-225	185	112	101	11
+20171208	Chicago	Charlotte	-11.0	380	-475	119	111	8
+20171208	Denver	Orlando	-1.0	105	-125	103	89	14
+20171208	Sacramento	New Orleans	-7.5	255	-310	116	109	7
+20171208	Toronto	Memphis	5.0	-225	185	116	107	9
+20171208	Cleveland	Indiana	2.0	-165	145	102	106	-4
+20171208	Golden State	Detroit	5.5	-220	180	102	98	4
+20171208	Dallas	Milwaukee	-5.0	210	-250	102	109	-7
+20171208	Boston	San Antonio	-1.0	110	-130	102	105	-3
+20171209	Washington	L.A. Clippers	2.5	-140	130	112	113	-1
+20171209	L.A. Lakers	Charlotte	-5.5	175	-190	110	99	11
+20171209	Philadelphia	Cleveland	-5.0	260	-320	98	105	-7
+20171209	Utah	Milwaukee	-3.0	135	-155	100	117	-17
+20171209	Oklahoma City	Memphis	5.0	-200	170	102	101	1
+20171209	Miami	Brooklyn	2.0	-130	110	101	89	12
+20171209	Orlando	Atlanta	-2.0	160	-185	110	117	-7
+20171209	New York	Chicago	4.0	-170	150	102	104	-2
+20171209	San Antonio	Phoenix	8.5	-280	255	104	101	3
+20171209	Houston	Portland	9.0	-390	320	124	117	7
+20171210	Toronto	Sacramento	7.0	-290	245	102	87	15
+20171210	Denver	Indiana	-6.5	220	-260	116	126	-10
+20171210	Philadelphia	New Orleans	-4.5	155	-175	124	131	-7
+20171210	Boston	Detroit	1.0	-117	-103	91	81	10
+20171210	Dallas	Minnesota	-8.0	300	-360	92	97	-5
+20171210	Atlanta	New York	-6.0	210	-250	107	111	-4
+20171211	Boston	Chicago	7.5	-290	245	85	108	-23
+20171211	New Orleans	Houston	-12.0	525	-750	123	130	-7
+20171211	Portland	Golden State	-11.5	485	-670	104	111	-7
+20171211	Miami	Memphis	-1.5	105	-125	107	82	25
+20171211	Charlotte	Oklahoma City	-6.0	225	-265	116	103	13
+20171211	Toronto	L.A. Clippers	5.5	-210	175	91	96	-5
+20171212	Atlanta	Cleveland	-11.0	525	-750	114	123	-9
+20171212	L.A. Lakers	New York	-3.5	145	-155	109	113	-4
+20171212	San Antonio	Dallas	6.0	-240	200	89	95	-6
+20171212	Denver	Detroit	-7.0	240	-280	103	84	19
+20171212	Washington	Brooklyn	3.0	-145	135	98	103	-5
+20171212	Philadelphia	Minnesota	-6.5	185	-225	118	112	6
+20171212	Phoenix	Sacramento	-4.0	165	-175	92	99	-7
+20171213	L.A. Clippers	Orlando	-1.5	105	-125	106	95	11
+20171213	Oklahoma City	Indiana	-1.5	103	-123	100	95	5
+20171213	Portland	Miami	-2.5	130	-150	102	95	7
+20171213	Milwaukee	New Orleans	-2.0	115	-135	108	115	-7
+20171213	Memphis	Washington	-7.0	250	-300	87	93	-6
+20171213	Denver	Boston	-7.5	270	-330	118	124	-6
+20171213	Utah	Chicago	4.0	-170	150	100	103	-3
+20171213	Toronto	Phoenix	10.5	-750	525	115	109	6
+20171213	Charlotte	Houston	-12.5	575	-850	96	108	-12
+20171214	Detroit	Atlanta	4.0	-155	135	105	91	14
+20171214	L.A. Lakers	Cleveland	-10.0	400	-500	112	121	-9
+20171214	New York	Brooklyn	0.0	105	-125	111	104	7
+20171214	Sacramento	Minnesota	-10.0	360	-450	96	119	-23
+20171214	Dallas	Golden State	-12.0	550	-800	97	112	-15
+20171215	Detroit	Indiana	-4.5	160	-185	104	98	6
+20171215	L.A. Clippers	Washington	-9.5	380	-475	91	100	-9
+20171215	Oklahoma City	Philadelphia	-2.0	105	-125	119	117	2
+20171215	Brooklyn	Toronto	-11.0	540	-660	87	120	-33
+20171215	Atlanta	Memphis	-6.5	190	-230	94	96	-2
+20171215	Miami	Charlotte	-5.0	180	-220	104	98	6
+20171215	Portland	Orlando	3.5	-160	140	95	88	7
+20171215	Utah	Boston	-5.5	190	-230	107	95	12
+20171215	Chicago	Milwaukee	-8.0	270	-330	115	109	6
+20171215	New Orleans	Denver	-1.0	-102	-118	111	117	-6
+20171215	San Antonio	Houston	-7.5	250	-300	109	124	-15
+20171216	Portland	Charlotte	-3.0	125	-145	93	91	2
+20171216	Oklahoma City	New York	2.5	-140	120	96	111	-15
+20171216	Phoenix	Minnesota	-11.5	585	-725	108	106	2
+20171216	Dallas	San Antonio	-8.5	275	-335	96	98	-2
+20171216	Utah	Cleveland	-8.5	525	-750	100	109	-9
+20171216	L.A. Clippers	Miami	-6.0	195	-235	85	90	-5
+20171216	Milwaukee	Houston	-10.5	525	-750	111	115	-4
+20171216	Boston	Memphis	5.0	-185	170	102	93	9
+20171217	Sacramento	Toronto	-12.5	600	-900	93	108	-15
+20171217	Indiana	Brooklyn	3.0	-145	125	109	97	12
+20171217	Orlando	Detroit	-10.5	425	-550	110	114	-4
+20171217	Cleveland	Washington	1.5	-102	-118	106	99	7
+20171218	New York	Charlotte	-6.5	190	-210	91	109	-18
+20171218	Miami	Atlanta	2.5	-130	110	104	110	-6
+20171218	Denver	Oklahoma City	-4.0	175	-190	94	95	-1
+20171218	Portland	Minnesota	-2.5	130	-140	107	108	-1
+20171218	L.A. Clippers	San Antonio	-11.5	570	-705	91	109	-18
+20171218	Boston	Indiana	1.5	-130	110	112	111	1
+20171218	Philadelphia	Chicago	1.5	-135	115	115	117	-2
+20171218	Utah	Houston	-12.0	525	-750	99	120	-21
+20171218	Phoenix	Dallas	-6.0	210	-230	97	91	6
+20171218	Golden State	L.A. Lakers	6.5	-240	200	116	114	2
+20171219	New Orleans	Washington	-4.5	165	-190	106	116	-10
+20171219	Sacramento	Philadelphia	-9.0	295	-355	101	95	6
+20171219	Cleveland	Milwaukee	1.0	-123	103	116	119	-3
+20171220	Toronto	Charlotte	1.0	-120	110	129	111	18
+20171220	Indiana	Atlanta	4.5	-170	160	105	95	10
+20171220	Utah	Oklahoma City	-7.5	240	-280	79	107	-28
+20171220	Orlando	Chicago	-5.0	185	-200	94	112	-18
+20171220	Minnesota	Denver	-2.5	115	-125	112	104	8
+20171220	Memphis	Golden State	-10.5	475	-650	84	97	-13
+20171220	Sacramento	Brooklyn	-5.5	170	-200	104	99	5
+20171220	Miami	Boston	-8.0	295	-325	90	89	1
+20171220	L.A. Lakers	Houston	-14.0	1000	-1200	122	116	6
+20171220	Detroit	Dallas	2.0	-117	-103	93	110	-17
+20171220	San Antonio	Portland	1.0	103	-113	93	91	2
+20171220	Phoenix	L.A. Clippers	-4.0	165	-175	95	108	-13
+20171221	Toronto	Philadelphia	3.5	-160	150	114	109	5
+20171221	Boston	New York	2.5	-135	115	93	102	-9
+20171221	Chicago	Cleveland	-11.5	475	-650	112	115	-3
+20171221	Memphis	Phoenix	0.0	-130	110	95	97	-2
+20171221	San Antonio	Utah	3.0	-165	145	89	100	-11
+20171222	New York	Detroit	-6.0	210	-250	101	104	-3
+20171222	Washington	Brooklyn	5.0	-210	175	84	119	-35
+20171222	Atlanta	Oklahoma City	-10.5	540	-660	117	120	-3
+20171222	Charlotte	Milwaukee	-4.5	175	-210	104	109	-5
+20171222	New Orleans	Orlando	4.0	-220	180	111	97	14
+20171222	Dallas	Miami	0.0	-102	-118	101	113	-12
+20171222	L.A. Clippers	Houston	-11.5	575	-850	128	118	10
+20171222	Denver	Portland	-1.0	105	-125	102	85	17
+20171222	L.A. Lakers	Golden State	-10.0	450	-525	106	113	-7
+20171223	Philadelphia	Toronto	-8.5	350	-440	86	102	-16
+20171223	Brooklyn	Indiana	-10.5	475	-650	119	123	-4
+20171223	Chicago	Boston	-7.0	240	-280	92	117	-25
+20171223	New Orleans	Miami	5.5	-240	200	109	94	15
+20171223	Oklahoma City	Utah	0.0	-102	-118	103	89	14
+20171223	Minnesota	Phoenix	7.5	-310	255	115	106	9
+20171223	Orlando	Washington	-11.5	550	-800	103	130	-27
+20171223	Milwaukee	Charlotte	-1.5	103	-123	106	111	-5
+20171223	Dallas	Atlanta	2.5	-145	125	107	112	-5
+20171223	L.A. Clippers	Memphis	-4.5	160	-185	112	115	-3
+20171223	Denver	Golden State	-10.0	425	-550	96	81	15
+20171223	Portland	L.A. Lakers	-3.0	135	-155	95	92	3
+20171223	San Antonio	Sacramento	7.5	-310	255	108	99	9
+20171225	Philadelphia	New York	-2.0	110	-130	105	98	7
+20171225	Washington	Boston	-4.5	180	-220	111	103	8
+20171225	Cleveland	Golden State	-5.0	180	-220	92	99	-7
+20171225	Houston	Oklahoma City	3.5	-185	160	107	112	-5
+20171225	Minnesota	L.A. Lakers	4.5	-155	135	121	104	17
+20171226	Toronto	Dallas	5.5	-210	175	93	98	-5
+20171226	Orlando	Miami	-6.5	210	-250	89	107	-18
+20171226	Brooklyn	San Antonio	-12.0	575	-850	97	109	-12
+20171226	Memphis	Phoenix	0.0	-117	-103	97	99	-2
+20171226	Indiana	Detroit	-2.0	110	-130	83	107	-24
+20171226	Chicago	Milwaukee	-6.5	210	-250	115	106	9
+20171226	Utah	Denver	-6.0	190	-230	83	107	-24
+20171226	Sacramento	L.A. Clippers	-5.0	173	-205	95	122	-27
+20171227	Boston	Charlotte	1.0	-112	102	102	91	11
+20171227	Washington	Atlanta	5.5	-220	180	99	113	-14
+20171227	New York	Chicago	0.0	103	-123	87	92	-5
+20171227	Denver	Minnesota	-5.5	175	-210	125	128	-3
+20171227	Memphis	L.A. Lakers	-2.5	125	-145	109	99	10
+20171227	Dallas	Indiana	-5.5	175	-210	98	94	4
+20171227	Brooklyn	New Orleans	-10.0	380	-475	113	128	-15
+20171227	Toronto	Oklahoma City	-3.0	150	-170	107	124	-17
+20171227	Cleveland	Sacramento	9.5	-450	360	95	109	-14
+20171227	Utah	Golden State	-12.0	550	-800	101	126	-25
+20171228	Detroit	Orlando	5.5	-190	165	89	102	-13
+20171228	Minnesota	Milwaukee	-2.5	145	-155	96	102	-6
+20171228	Houston	Boston	2.5	-125	105	98	99	-1
+20171228	New York	San Antonio	-11.0	550	-800	107	119	-12
+20171228	Philadelphia	Portland	-2.5	145	-155	110	114	-4
+20171229	Houston	Washington	1.0	-118	-102	103	121	-18
+20171229	Indiana	Chicago	-3.0	130	-150	107	119	-12
+20171229	Dallas	New Orleans	-6.0	220	-240	128	120	8
+20171229	Phoenix	Sacramento	-1.0	120	-130	111	101	10
+20171229	Atlanta	Toronto	-11.0	500	-700	98	111	-13
+20171229	Milwaukee	Oklahoma City	-8.0	315	-380	97	95	2
+20171229	Brooklyn	Miami	-7.0	210	-250	111	87	24
+20171229	L.A. Clippers	L.A. Lakers	3.5	-145	135	121	106	15
+20171229	Charlotte	Golden State	-11.0	500	-700	111	100	11
+20171230	New York	New Orleans	-5.5	190	-230	105	103	2
+20171230	San Antonio	Detroit	5.0	-200	170	79	93	-14
+20171230	Cleveland	Utah	3.5	-160	140	101	104	-3
+20171230	Miami	Orlando	1.0	-117	-103	117	111	6
+20171230	Portland	Atlanta	3.5	-165	145	89	104	-15
+20171230	Memphis	Golden State	-13.0	775	-1200	128	141	-13
+20171230	Philadelphia	Denver	-7.5	255	-310	107	102	5
+20171231	Chicago	Washington	-7.5	250	-300	110	114	-4
+20171231	Brooklyn	Boston	-10.0	425	-550	105	108	-3
+20171231	Memphis	Sacramento	-3.0	130	-150	114	96	18
+20171231	Charlotte	L.A. Clippers	-2.5	120	-140	98	106	-8
+20171231	Minnesota	Indiana	2.5	-145	125	107	90	17
+20171231	Dallas	Oklahoma City	-6.5	200	-240	116	113	3
+20171231	L.A. Lakers	Houston	-14.5	1000	-1500	142	148	-6
+20171231	Philadelphia	Phoenix	2.5	-140	120	123	110	13
+20180101	Orlando	Brooklyn	-1.0	115	-135	95	98	-3
+20180101	L.A. Lakers	Minnesota	-10.0	450	-600	96	114	-18
+20180101	Milwaukee	Toronto	-6.0	210	-230	127	131	-4
+20180101	Portland	Chicago	-1.0	-103	-117	124	120	4
+20180102	Portland	Cleveland	-8.0	275	-335	110	127	-17
+20180102	Atlanta	Phoenix	-1.5	103	-123	103	104	-1
+20180102	San Antonio	New York	4.0	-170	150	100	91	9
+20180102	Charlotte	Sacramento	3.5	-165	145	131	111	20
+20180102	Memphis	L.A. Clippers	-5.0	170	-200	105	113	-8
+20180103	New York	Washington	-8.5	300	-360	103	121	-18
+20180103	Houston	Orlando	7.5	-300	250	116	98	18
+20180103	Detroit	Miami	-3.0	135	-155	104	111	-7
+20180103	Toronto	Chicago	5.0	-200	170	124	115	9
+20180103	Golden State	Dallas	7.0	-265	225	125	122	3
+20180103	New Orleans	Utah	-1.5	105	-125	108	98	10
+20180103	San Antonio	Philadelphia	3.0	318	-350	106	112	-6
+20180103	Minnesota	Brooklyn	6.0	-260	220	97	98	-1
+20180103	Indiana	Milwaukee	-8.0	280	-340	101	122	-21
+20180103	Cleveland	Boston	-2.5	125	-145	88	102	-14
+20180103	Phoenix	Denver	-11.0	475	-650	111	134	-23
+20180103	Oklahoma City	L.A. Lakers	6.5	-250	230	133	96	37
+20180104	Golden State	Houston	4.0	-178	167	124	114	10
+20180104	Oklahoma City	L.A. Clippers	1.0	-118	-102	127	117	10
+20180105	Detroit	Philadelphia	-6.0	200	-240	78	114	-36
+20180105	New York	Miami	-5.5	175	-210	103	107	-4
+20180105	Chicago	Dallas	-4.5	160	-185	127	124	3
+20180105	Utah	Denver	-6.5	230	-270	91	99	-8
+20180105	Atlanta	Portland	-7.0	245	-290	89	110	-21
+20180105	Minnesota	Boston	-4.0	150	-170	84	91	-7
+20180105	Toronto	Milwaukee	1.0	-120	100	129	110	19
+20180105	Phoenix	San Antonio	-12.0	550	-800	89	103	-14
+20180105	Washington	Memphis	4.5	-185	160	102	100	2
+20180105	Charlotte	L.A. Lakers	2.5	-140	120	108	94	14
+20180106	Golden State	L.A. Clippers	7.0	-380	315	121	105	16
+20180106	Chicago	Indiana	-4.5	170	-200	86	125	-39
+20180106	Houston	Detroit	4.5	-210	175	101	108	-7
+20180106	New Orleans	Minnesota	-1.5	105	-125	98	116	-18
+20180106	Boston	Brooklyn	5.0	-200	170	87	85	2
+20180106	Cleveland	Orlando	9.0	-440	350	131	127	4
+20180106	Milwaukee	Washington	-4.0	160	-170	110	103	7
+20180106	Denver	Sacramento	4.0	-175	165	98	106	-8
+20180107	Utah	Miami	-4.5	160	-185	102	103	-1
+20180107	Oklahoma City	Phoenix	8.5	-360	325	100	114	-14
+20180107	New York	Dallas	-4.5	165	-190	100	96	4
+20180107	San Antonio	Portland	1.5	103	-123	110	111	-1
+20180107	Atlanta	L.A. Lakers	-2.5	125	-145	113	132	-19
+20180108	Milwaukee	Indiana	-1.5	105	-125	96	109	-13
+20180108	Cleveland	Minnesota	1.0	-120	100	99	127	-28
+20180108	Detroit	New Orleans	-7.0	250	-300	109	112	-3
+20180108	Atlanta	L.A. Clippers	-4.0	160	-185	107	108	-1
+20180108	Toronto	Brooklyn	7.5	-330	270	114	113	1
+20180108	Houston	Chicago	5.0	-210	175	116	107	9
+20180108	San Antonio	Sacramento	5.5	-260	220	107	100	7
+20180108	Denver	Golden State	-9.5	475	-650	114	124	-10
+20180109	Miami	Toronto	-5.0	175	-210	90	89	1
+20180109	Orlando	Dallas	-6.5	200	-240	99	114	-15
+20180109	Portland	Oklahoma City	-8.5	275	-335	117	106	11
+20180109	Sacramento	L.A. Lakers	-6.5	200	-240	86	99	-13
+20180110	Miami	Indiana	-4.5	160	-185	114	106	8
+20180110	Dallas	Charlotte	-6.5	220	-260	115	111	4
+20180110	Chicago	New York	-3.5	160	-185	122	119	3
+20180110	New Orleans	Memphis	1.0	-113	103	102	105	-3
+20180110	Oklahoma City	Minnesota	-4.0	155	-175	88	104	-16
+20180110	Utah	Washington	-7.0	248	-270	107	104	3
+20180110	Detroit	Brooklyn	2.0	-125	115	114	80	34
+20180110	Orlando	Milwaukee	-10.5	475	-650	103	110	-7
+20180110	Portland	Houston	-9.0	318	-350	112	121	-9
+20180110	Atlanta	Denver	-9.5	378	-425	110	97	13
+20180110	L.A. Clippers	Golden State	-16.5	1400	-2500	125	106	19
+20180111	Boston	Philadelphia	2.0	-135	115	114	103	11
+20180111	L.A. Clippers	Sacramento	1.5	-123	103	121	115	6
+20180111	Cleveland	Toronto	2.0	-175	155	99	133	-34
+20180111	San Antonio	L.A. Lakers	2.5	-150	130	81	93	-12
+20180112	Cleveland	Indiana	1.5	-123	103	95	97	-2
+20180112	Orlando	Washington	-10.5	475	-650	119	125	-6
+20180112	New York	Minnesota	-9.0	360	-450	108	118	-10
+20180112	Golden State	Milwaukee	4.5	-190	165	108	94	14
+20180112	Utah	Charlotte	-4.0	155	-175	88	99	-11
+20180112	Brooklyn	Atlanta	-3.5	145	-165	110	105	5
+20180112	Portland	New Orleans	-2.5	110	-130	113	119	-6
+20180112	Memphis	Denver	-7.5	250	-300	78	87	-9
+20180112	Houston	Phoenix	7.5	-270	230	112	95	17
+20180113	L.A. Lakers	Dallas	-4.5	165	-190	107	101	6
+20180113	Oklahoma City	Charlotte	1.5	-125	105	101	91	10
+20180113	Golden State	Toronto	3.5	-185	160	127	125	2
+20180113	Sacramento	L.A. Clippers	-7.5	275	-305	105	126	-21
+20180113	Brooklyn	Washington	-9.5	360	-450	113	119	-6
+20180113	Detroit	Chicago	-1.0	-105	-115	105	107	-2
+20180113	Denver	San Antonio	-7.5	245	-290	80	112	-32
+20180114	Milwaukee	Miami	-2.0	110	-130	79	97	-18
+20180114	Indiana	Phoenix	4.5	-185	160	120	97	23
+20180114	New Orleans	New York	1.5	-125	105	123	118	5
+20180114	Portland	Minnesota	-5.5	190	-230	103	120	-17
+20180115	Charlotte	Detroit	-3.0	130	-150	118	107	11
+20180115	Milwaukee	Washington	-5.0	165	-190	104	95	9
+20180115	New York	Brooklyn	-2.0	115	-135	119	104	15
+20180115	L.A. Lakers	Memphis	-2.0	128	-138	114	123	-9
+20180115	Sacramento	Oklahoma City	-11.5	550	-800	88	95	-7
+20180115	Toronto	Philadelphia	0.0	-113	103	111	117	-6
+20180115	San Antonio	Atlanta	7.5	-340	280	99	102	-3
+20180115	Miami	Chicago	-1.0	-103	-117	111	119	-8
+20180115	Golden State	Cleveland	4.5	-200	170	118	108	10
+20180115	Indiana	Utah	-4.0	165	-175	109	94	15
+20180115	Houston	L.A. Clippers	3.0	-155	135	102	113	-11
+20180116	Minnesota	Orlando	8.0	-320	260	102	108	-6
+20180116	Dallas	Denver	-5.5	200	-240	102	105	-3
+20180116	New Orleans	Boston	-4.5	170	-200	116	113	3
+20180116	Phoenix	Portland	-10.5	400	-500	111	118	-7
+20180117	Washington	Charlotte	-1.5	105	-125	109	133	-24
+20180117	San Antonio	Brooklyn	7.0	-260	240	100	95	5
+20180117	Miami	Milwaukee	-4.5	160	-185	106	101	5
+20180117	Golden State	Chicago	9.0	-410	365	119	112	7
+20180117	Utah	Sacramento	4.0	-175	155	120	105	15
+20180117	Detroit	Toronto	-8.5	335	-420	91	96	-5
+20180117	New Orleans	Atlanta	3.0	-150	130	93	94	-1
+20180117	New York	Memphis	-2.0	110	-130	99	105	-6
+20180117	L.A. Lakers	Oklahoma City	-9.5	380	-430	90	114	-24
+20180117	Denver	L.A. Clippers	-4.0	135	-145	104	109	-5
+20180118	Orlando	Cleveland	-11.0	500	-700	103	104	-1
+20180118	Minnesota	Houston	-5.0	175	-210	98	116	-18
+20180118	Philadelphia	Boston	-4.0	165	-175	89	80	9
+20180118	Indiana	Portland	-3.5	140	-160	86	100	-14
+20180119	San Antonio	Toronto	-5.5	200	-240	83	86	-3
+20180119	Washington	Detroit	1.0	-125	105	122	112	10
+20180119	Phoenix	Denver	-9.0	360	-450	108	100	8
+20180119	Miami	Brooklyn	3.5	-170	150	95	101	-6
+20180119	Sacramento	Memphis	-6.0	185	-200	88	106	-18
+20180119	New York	Utah	-4.0	160	-185	117	115	2
+20180119	Indiana	L.A. Lakers	3.0	-120	110	86	99	-13
+20180120	Oklahoma City	Cleveland	-4.0	130	-170	148	124	24
+20180120	Memphis	New Orleans	-9.0	350	-440	104	111	-7
+20180120	Milwaukee	Philadelphia	-6.5	225	-265	94	116	-22
+20180120	L.A. Clippers	Utah	-2.0	110	-130	113	125	-12
+20180120	Chicago	Atlanta	-2.0	105	-125	113	97	16
+20180120	Miami	Charlotte	-4.5	170	-200	106	105	1
+20180120	Golden State	Houston	4.5	-175	155	108	116	-8
+20180120	Toronto	Minnesota	-3.0	135	-155	109	115	-6
+20180120	Dallas	Portland	-5.0	170	-200	108	117	-9
+20180121	Orlando	Boston	-10.5	450	-600	103	95	8
+20180121	Brooklyn	Detroit	-6.0	205	-245	101	100	1
+20180121	New York	L.A. Lakers	1.5	-125	105	107	127	-20
+20180121	Indiana	San Antonio	-5.5	220	-260	94	86	8
+20180122	Sacramento	Charlotte	-9.0	450	-600	107	112	-5
+20180122	Chicago	New Orleans	-6.0	205	-245	128	132	-4
+20180122	Philadelphia	Memphis	2.5	-140	120	101	105	-4
+20180122	Washington	Dallas	1.5	-130	110	75	98	-23
+20180122	Utah	Atlanta	2.5	-140	120	90	104	-14
+20180122	Miami	Houston	-10.5	450	-600	90	99	-9
+20180122	Phoenix	Milwaukee	-4.5	160	-185	105	109	-4
+20180122	Portland	Denver	-3.0	135	-155	101	104	-3
+20180122	Minnesota	L.A. Clippers	3.0	-130	110	126	118	8
+20180123	Sacramento	Orlando	-6.0	210	-250	105	99	6
+20180123	Brooklyn	Oklahoma City	-10.0	415	-525	108	109	-1
+20180123	Cleveland	San Antonio	-2.0	120	-140	102	114	-12
+20180123	New York	Golden State	-14.0	1050	-1600	112	123	-11
+20180123	Boston	L.A. Lakers	4.5	-175	155	107	108	-1
+20180124	Chicago	Philadelphia	-5.0	175	-210	101	115	-14
+20180124	Utah	Detroit	-2.0	110	-130	98	95	3
+20180124	Toronto	Atlanta	6.0	-245	205	108	93	15
+20180124	Houston	Dallas	6.0	-245	205	104	97	7
+20180124	New Orleans	Charlotte	-1.5	110	-130	101	96	5
+20180124	Phoenix	Indiana	-7.5	260	-320	101	116	-15
+20180124	San Antonio	Memphis	0.0	102	-112	108	85	23
+20180124	Minnesota	Portland	-2.0	119	-129	114	123	-9
+20180124	Boston	L.A. Clippers	-1.0	110	-120	113	102	11
+20180125	Sacramento	Miami	-10.5	475	-650	89	88	1
+20180125	New York	Denver	-4.5	175	-210	118	130	-12
+20180125	Washington	Oklahoma City	-5.5	175	-210	112	121	-9
+20180125	Minnesota	Golden State	-12.5	650	-1000	113	126	-13
+20180126	Atlanta	Charlotte	-6.5	230	-250	110	121	-11
+20180126	Utah	Toronto	-7.5	265	-295	97	93	4
+20180126	Brooklyn	Milwaukee	-6.5	220	-240	91	116	-25
+20180126	L.A. Lakers	Chicago	-4.0	150	-160	108	103	5
+20180126	Portland	Dallas	1.0	-120	110	107	93	14
+20180126	Indiana	Cleveland	-5.0	190	-210	108	115	-7
+20180126	Houston	New Orleans	3.0	-150	140	113	115	-2
+20180126	L.A. Clippers	Memphis	3.0	-145	135	109	100	9
+20180126	Philadelphia	San Antonio	-3.5	145	-155	97	78	19
+20180126	New York	Phoenix	2.5	-112	102	107	85	22
+20180127	Oklahoma City	Detroit	3.5	-160	140	121	108	13
+20180127	Washington	Atlanta	5.5	-225	185	129	104	25
+20180127	Boston	Golden State	-9.5	450	-525	105	109	-4
+20180127	Orlando	Indiana	-6.0	210	-250	112	114	-2
+20180127	Charlotte	Miami	-4.5	160	-185	91	95	-4
+20180127	Brooklyn	Minnesota	-9.5	515	-620	97	111	-14
+20180127	Dallas	Denver	-7.5	260	-320	89	91	-2
+20180128	Phoenix	Houston	-14.0	1000	-1200	102	113	-11
+20180128	L.A. Clippers	New Orleans	-1.0	102	-112	112	103	9
+20180128	Detroit	Cleveland	-8.0	295	-325	104	121	-17
+20180128	Milwaukee	Chicago	2.0	-130	110	110	96	14
+20180128	L.A. Lakers	Toronto	-9.5	385	-485	111	123	-12
+20180128	Philadelphia	Oklahoma City	-4.0	150	-160	112	122	-10
+20180128	Sacramento	San Antonio	-10.5	470	-640	98	113	-15
+20180129	Charlotte	Indiana	-2.5	135	-155	96	105	-9
+20180129	Phoenix	Memphis	-8.0	230	-270	109	120	-11
+20180129	Miami	Dallas	1.0	-125	105	95	88	7
+20180129	Minnesota	Atlanta	6.5	-230	190	100	105	-5
+20180129	Philadelphia	Milwaukee	-3.0	145	-165	95	107	-12
+20180129	Boston	Denver	-1.0	110	-130	111	110	1
+20180130	Oklahoma City	Washington	3.5	-150	130	96	102	-6
+20180130	Minnesota	Toronto	-6.0	210	-250	104	109	-5
+20180130	Orlando	Houston	-12.5	700	-900	107	114	-7
+20180130	Denver	San Antonio	-6.5	210	-250	104	106	-2
+20180130	Brooklyn	New York	-5.0	170	-200	95	111	-16
+20180130	Cleveland	Detroit	2.0	-125	105	114	125	-11
+20180130	Sacramento	New Orleans	-7.5	315	-345	114	103	11
+20180130	Golden State	Utah	7.0	-290	245	99	129	-30
+20180130	Portland	L.A. Clippers	7.0	120	-140	104	96	8
+20180131	Memphis	Indiana	-6.5	248	-270	101	105	-4
+20180131	Philadelphia	Brooklyn	6.5	-270	248	108	116	-8
+20180131	Charlotte	Atlanta	2.5	-130	120	123	110	13
+20180131	Chicago	Portland	-7.5	255	-310	108	124	-16
+20180131	L.A. Lakers	Orlando	2.0	-125	115	105	127	-22
+20180131	Miami	Cleveland	-3.0	103	-123	89	91	-2
+20180131	New York	Boston	-9.0	300	-360	73	103	-30
+20180131	Dallas	Phoenix	4.5	-160	140	88	102	-14
+20180201	Toronto	Washington	3.0	-155	135	119	122	-3
+20180201	Houston	San Antonio	0.0	-117	-103	102	91	11
+20180201	Memphis	Detroit	-8.5	325	-400	102	104	-2
+20180201	Milwaukee	Minnesota	-5.5	195	-235	89	108	-19
+20180201	Oklahoma City	Denver	1.0	-118	-102	124	127	-3
+20180202	Indiana	Charlotte	-3.5	135	-155	126	133	-7
+20180202	Portland	Toronto	-4.5	165	-175	105	130	-25
+20180202	Miami	Philadelphia	-4.0	160	-170	97	103	-6
+20180202	Utah	Phoenix	5.5	-220	200	129	97	32
+20180202	Atlanta	Boston	-9.5	330	-410	110	119	-9
+20180202	L.A. Lakers	Brooklyn	-1.5	115	-125	102	99	3
+20180202	New York	Milwaukee	-3.0	125	-145	90	92	-2
+20180202	New Orleans	Oklahoma City	-6.0	200	-240	114	100	14
+20180202	Golden State	Sacramento	13.0	-1000	800	119	104	15
+20180203	Chicago	L.A. Clippers	-8.0	290	-350	103	113	-10
+20180203	Philadelphia	Indiana	-1.5	125	-145	92	100	-8
+20180203	Houston	Cleveland	3.5	-165	155	120	88	32
+20180203	Utah	San Antonio	-6.0	200	-240	120	111	9
+20180203	Washington	Orlando	3.5	-165	145	115	98	17
+20180203	Miami	Detroit	-2.0	110	-130	107	111	-4
+20180203	New Orleans	Minnesota	-8.5	295	-355	107	118	-11
+20180203	Golden State	Denver	5.0	-210	175	108	115	-7
+20180203	Dallas	Sacramento	4.5	-1858	1180	106	99	7
+20180204	Atlanta	New York	-5.5	180	-220	99	96	3
+20180204	Memphis	Toronto	-12.0	650	-1000	86	101	-15
+20180204	L.A. Lakers	Oklahoma City	-10.0	425	-550	108	104	4
+20180204	Milwaukee	Brooklyn	4.5	-185	160	109	94	15
+20180204	Portland	Boston	-1.5	105	-125	96	97	-1
+20180204	Charlotte	Phoenix	6.0	-240	200	115	110	5
+20180205	Portland	Detroit	-2.0	115	-125	91	111	-20
+20180205	Orlando	Miami	-7.0	260	-290	111	109	2
+20180205	Charlotte	Denver	-5.5	230	-250	104	121	-17
+20180205	Washington	Indiana	-2.0	115	-125	111	102	9
+20180205	Utah	New Orleans	-2.0	108	-118	133	109	24
+20180205	Chicago	Sacramento	-1.5	130	-140	98	104	-6
+20180205	Dallas	L.A. Clippers	-6.0	245	-265	101	104	-3
+20180206	Cleveland	Orlando	7.0	-270	230	98	116	-18
+20180206	Milwaukee	New York	1.5	-120	110	103	89	14
+20180206	Boston	Toronto	-5.0	175	-190	91	111	-20
+20180206	Phoenix	L.A. Lakers	-8.0	285	-345	93	112	-19
+20180206	Houston	Brooklyn	10.0	-600	450	123	113	10
+20180206	Memphis	Atlanta	-2.0	115	-135	82	108	-26
+20180206	Washington	Philadelphia	-6.0	210	-230	102	115	-13
+20180206	Oklahoma City	Golden State	-10.0	400	-500	125	105	20
+20180207	Brooklyn	Detroit	-9.0	325	-400	106	115	-9
+20180207	Minnesota	Cleveland	2.5	-155	145	138	140	-2
+20180207	San Antonio	Phoenix	8.5	-600	450	129	81	48
+20180207	Houston	Miami	4.5	-175	165	109	101	8
+20180207	Utah	Memphis	7.5	-310	255	92	88	4
+20180208	Atlanta	Orlando	-1.5	105	-125	98	100	-2
+20180208	Boston	Washington	-1.5	105	-125	110	104	6
+20180208	Oklahoma City	L.A. Lakers	3.0	-140	130	81	106	-25
+20180208	New York	Toronto	-15.0	900	-1100	88	113	-25
+20180208	Charlotte	Portland	-3.0	135	-155	103	109	-6
+20180208	Dallas	Golden State	-13.0	650	-1000	103	121	-18
+20180209	New Orleans	Philadelphia	-5.5	185	-225	82	100	-18
+20180209	Cleveland	Atlanta	2.0	-118	108	123	107	16
+20180209	Milwaukee	Miami	-1.0	-103	-117	85	91	-6
+20180209	Charlotte	Utah	-5.5	180	-220	94	106	-12
+20180209	L.A. Clippers	Detroit	-3.5	145	-165	108	95	13
+20180209	Indiana	Boston	-4.0	155	-175	97	91	6
+20180209	Denver	Houston	-8.5	315	-380	104	130	-26
+20180209	Minnesota	Chicago	6.5	-260	220	113	114	-1
+20180209	Portland	Sacramento	6.0	-245	205	118	100	18
+20180210	New Orleans	Brooklyn	1.5	-123	103	138	128	10
+20180210	L.A. Clippers	Philadelphia	-2.5	120	-140	98	112	-14
+20180210	San Antonio	Golden State	-11.0	550	-800	105	122	-17
+20180210	Milwaukee	Orlando	5.0	-210	175	111	104	7
+20180210	Washington	Chicago	5.0	-210	175	101	90	11
+20180210	L.A. Lakers	Dallas	-2.0	110	-130	123	130	-7
+20180210	Denver	Phoenix	7.0	-280	240	123	113	10
+20180211	Toronto	Charlotte	3.0	-140	130	123	103	20
+20180211	Detroit	Atlanta	3.5	-155	145	115	118	-3
+20180211	Sacramento	Minnesota	-13.0	800	-1000	106	111	-5
+20180211	Dallas	Houston	-15.0	1050	-1600	97	104	-7
+20180211	Cleveland	Boston	-4.5	160	-185	121	99	22
+20180211	New York	Indiana	-10.0	340	-425	113	121	-8
+20180211	Memphis	Oklahoma City	-8.0	250	-300	92	110	-18
+20180211	Utah	Portland	-3.5	145	-165	115	96	19
+20180212	New York	Philadelphia	-11.5	600	-900	92	108	-16
+20180212	L.A. Clippers	Brooklyn	4.5	-185	160	114	101	13
+20180212	San Antonio	Utah	-4.5	160	-185	99	101	-2
+20180212	New Orleans	Detroit	-3.0	125	-145	118	103	15
+20180212	Orlando	Chicago	-4.0	155	-175	101	105	-4
+20180212	Phoenix	Golden State	-15.5	1050	-1600	83	129	-46
+20180213	Miami	Toronto	-8.0	300	-330	112	115	-3
+20180213	Houston	Minnesota	2.5	-140	130	126	108	18
+20180213	Sacramento	Dallas	-6.5	225	-245	114	109	5
+20180213	Atlanta	Milwaukee	-7.5	260	-290	92	97	-5
+20180213	Cleveland	Oklahoma City	-2.0	115	-125	120	112	8
+20180213	San Antonio	Denver	-7.0	225	-245	109	117	-8
+20180214	Atlanta	Detroit	-8.5	305	-335	98	104	-6
+20180214	Charlotte	Orlando	5.0	-200	170	104	102	2
+20180214	Washington	New York	5.0	-200	170	118	113	5
+20180214	Sacramento	Houston	-15.0	1050	-1600	91	100	-9
+20180214	L.A. Lakers	New Orleans	-5.0	170	-200	117	139	-22
+20180214	Phoenix	Utah	-11.5	500	-800	97	107	-10
+20180214	Miami	Philadelphia	-7.0	260	-290	102	104	-2
+20180214	Indiana	Brooklyn	4.5	-185	160	108	103	5
+20180214	Toronto	Chicago	6.5	-260	220	122	98	24
+20180214	L.A. Clippers	Boston	-4.5	160	-185	129	119	10
+20180214	Oklahoma City	Memphis	4.0	-185	155	121	114	7
+20180214	Golden State	Portland	6.5	-240	200	117	123	-6
+20180215	Denver	Milwaukee	-3.0	135	-155	134	123	11
+20180215	L.A. Lakers	Minnesota	-10.0	450	-600	111	119	-8
+20180222	Brooklyn	Charlotte	-7.5	265	-325	96	111	-15
+20180222	Washington	Cleveland	-5.0	175	-210	110	103	7
+20180222	Oklahoma City	Sacramento	7.5	-320	260	110	107	3
+20180222	New York	Orlando	-3.5	145	-165	120	113	7
+20180222	Philadelphia	Chicago	5.5	-220	180	116	115	1
+20180222	L.A. Clippers	Golden State	-11.0	575	-850	127	134	-7
+20180223	Boston	Detroit	1.0	-113	103	110	98	12
+20180223	Charlotte	Washington	-3.5	145	-155	122	105	17
+20180223	Miami	New Orleans	-3.0	120	-130	123	124	-1
+20180223	Minnesota	Houston	-7.5	300	-360	102	120	-18
+20180223	Portland	Utah	-3.5	145	-165	100	81	19
+20180223	Atlanta	Indiana	-8.0	295	-355	93	116	-23
+20180223	Milwaukee	Toronto	-8.5	255	-310	122	119	3
+20180223	Cleveland	Memphis	5.5	-200	185	112	89	23
+20180223	San Antonio	Denver	-3.5	140	-160	119	122	-3
+20180223	L.A. Clippers	Phoenix	4.5	-190	165	128	117	11
+20180223	Dallas	L.A. Lakers	-3.5	150	-160	102	124	-22
+20180224	Orlando	Philadelphia	-10.0	450	-600	105	116	-11
+20180224	Memphis	Miami	-7.0	245	-290	89	115	-26
+20180224	Dallas	Utah	-8.0	290	-350	90	97	-7
+20180224	Chicago	Minnesota	-8.5	320	-390	104	122	-18
+20180224	Boston	New York	4.5	-215	178	121	112	9
+20180224	Oklahoma City	Golden State	-9.5	425	-550	80	112	-32
+20180224	Portland	Phoenix	6.0	-235	195	106	104	2
+20180224	L.A. Lakers	Sacramento	1.0	-117	-103	113	108	5
+20180225	Detroit	Charlotte	-4.0	165	-190	98	114	-16
+20180225	San Antonio	Cleveland	-4.5	170	-200	110	94	16
+20180225	New Orleans	Milwaukee	-4.5	150	-170	123	121	2
+20180225	Houston	Denver	4.5	-190	165	119	114	5
+20180225	Philadelphia	Washington	-1.5	103	-123	94	109	-15
+20180226	Detroit	Toronto	-11.0	525	-750	94	123	-29
+20180226	Memphis	Boston	-11.5	615	-930	98	109	-11
+20180226	Golden State	New York	12.0	-1000	650	125	111	14
+20180226	Orlando	Oklahoma City	-10.5	475	-650	105	112	-7
+20180226	Houston	Utah	2.5	-140	120	96	85	11
+20180226	Chicago	Brooklyn	-3.0	130	-150	87	104	-17
+20180226	L.A. Lakers	Atlanta	2.5	-135	115	123	104	19
+20180226	Phoenix	New Orleans	-7.0	250	-300	116	125	-9
+20180226	Indiana	Dallas	2.5	-140	120	103	109	-6
+20180226	Minnesota	Sacramento	6.0	-235	195	118	100	18
+20180227	Chicago	Charlotte	-10.0	450	-600	103	118	-15
+20180227	Philadelphia	Miami	0.0	-110	-110	101	102	-1
+20180227	Sacramento	Portland	-11.5	775	-1200	99	116	-17
+20180227	Brooklyn	Cleveland	-11.5	775	-1200	123	129	-6
+20180227	Washington	Milwaukee	-3.0	130	-150	107	104	3
+20180227	L.A. Clippers	Denver	-3.5	145	-165	122	120	2
+20180228	Milwaukee	Detroit	-2.0	110	-130	87	110	-23
+20180228	Indiana	Atlanta	4.0	-175	155	102	107	-5
+20180228	Phoenix	Memphis	-2.0	125	-145	110	102	8
+20180228	New Orleans	San Antonio	-5.0	175	-210	121	116	5
+20180228	Toronto	Orlando	9.5	-475	380	117	104	13
+20180228	Charlotte	Boston	-7.0	255	-310	106	134	-28
+20180228	Golden State	Washington	8.5	-420	335	109	101	8
+20180228	Oklahoma City	Dallas	5.0	-210	175	111	110	1
+20180228	Houston	L.A. Clippers	7.0	-320	260	105	92	13
+20180301	L.A. Lakers	Miami	-4.0	150	-170	131	113	18
+20180301	Brooklyn	Sacramento	0.0	-113	103	111	116	-5
+20180301	Philadelphia	Cleveland	-2.5	120	-140	108	97	11
+20180301	Minnesota	Portland	-4.0	155	-175	99	108	-9
+20180302	Detroit	Orlando	2.5	-145	125	106	115	-9
+20180302	Golden State	Atlanta	13.0	-1100	700	114	109	5
+20180302	Denver	Memphis	7.0	-310	255	108	102	6
+20180302	Indiana	Milwaukee	-3.0	150	-160	103	96	7
+20180302	Minnesota	Utah	-6.5	250	-300	108	116	-8
+20180302	Charlotte	Philadelphia	-3.5	155	-175	99	110	-11
+20180302	Dallas	Chicago	1.5	-118	-102	100	108	-8
+20180302	Toronto	Washington	3.0	-145	135	102	95	7
+20180302	Oklahoma City	Phoenix	8.0	-320	290	124	116	8
+20180302	New York	L.A. Clippers	-9.5	380	-475	105	128	-23
+20180303	Memphis	Orlando	-8.0	255	-280	100	107	-7
+20180303	Detroit	Miami	-5.0	190	-210	96	105	-9
+20180303	L.A. Lakers	San Antonio	-4.0	140	-160	116	112	4
+20180303	Denver	Cleveland	-5.0	175	-190	126	117	9
+20180303	Boston	Houston	-8.5	290	-350	120	123	-3
+20180303	Utah	Sacramento	6.5	-255	235	98	91	7
+20180303	Oklahoma City	Portland	-4.0	165	-175	100	108	-8
+20180304	Phoenix	Atlanta	-2.5	125	-145	112	113	-1
+20180304	Charlotte	Toronto	-9.0	360	-450	98	103	-5
+20180304	Philadelphia	Milwaukee	1.0	-115	-105	110	118	-8
+20180304	Indiana	Washington	-3.5	145	-165	98	95	3
+20180304	New Orleans	Dallas	3.5	-155	135	126	109	17
+20180304	New York	Sacramento	2.0	-130	110	99	102	-3
+20180304	Brooklyn	L.A. Clippers	-8.0	290	-350	120	123	-3
+20180305	Detroit	Cleveland	-7.0	250	-300	90	112	-22
+20180305	Phoenix	Miami	-9.0	390	-440	103	125	-22
+20180305	Memphis	San Antonio	-10.5	568	-700	98	100	-2
+20180305	Milwaukee	Indiana	-3.0	130	-150	89	92	-3
+20180305	Boston	Chicago	9.0	-440	350	105	89	16
+20180305	Orlando	Utah	-10.0	425	-550	80	94	-14
+20180305	Portland	L.A. Lakers	2.0	-130	110	108	103	5
+20180306	Philadelphia	Charlotte	1.5	-125	115	128	114	14
+20180306	Atlanta	Toronto	-12.5	700	-900	90	106	-16
+20180306	Denver	Dallas	4.5	-185	170	107	118	-11
+20180306	New Orleans	L.A. Clippers	-3.0	135	-145	121	116	5
+20180306	Miami	Washington	-5.0	175	-190	113	117	-4
+20180306	Houston	Oklahoma City	4.5	-185	170	122	112	10
+20180306	New York	Portland	-9.5	400	-500	87	111	-24
+20180306	Brooklyn	Golden State	-14.0	1050	-1600	101	114	-13
+20180307	Utah	Indiana	0.0	-110	-110	104	84	20
+20180307	Houston	Milwaukee	6.0	-250	210	110	99	11
+20180307	New Orleans	Sacramento	5.5	-230	190	114	101	13
+20180307	Memphis	Chicago	-3.0	125	-155	110	119	-9
+20180307	Toronto	Detroit	5.0	-210	175	121	119	2
+20180307	Cleveland	Denver	-2.5	120	-140	113	108	5
+20180307	Orlando	L.A. Lakers	-7.0	230	-270	107	108	-1
+20180308	Brooklyn	Charlotte	-7.0	240	-280	125	111	14
+20180308	Boston	Minnesota	2.0	-130	110	117	109	8
+20180308	Philadelphia	Miami	1.0	-117	-103	99	108	-9
+20180308	Phoenix	Oklahoma City	-10.5	450	-600	87	115	-28
+20180308	San Antonio	Golden State	-11.5	550	-800	107	110	-3
+20180309	Atlanta	Indiana	-8.0	290	-350	87	112	-25
+20180309	Houston	Toronto	1.5	-125	105	105	108	-3
+20180309	Utah	Memphis	9.0	-450	360	95	78	17
+20180309	L.A. Lakers	Denver	-6.5	220	-260	116	125	-9
+20180309	Orlando	Sacramento	-4.5	155	-175	88	94	-6
+20180309	Chicago	Detroit	-8.0	290	-350	83	99	-16
+20180309	New York	Milwaukee	-10.0	425	-550	112	120	-8
+20180309	Washington	New Orleans	1.0	-155	135	116	97	19
+20180309	Golden State	Portland	4.0	-118	108	108	125	-17
+20180309	Cleveland	L.A. Clippers	-1.5	103	-123	102	116	-14
+20180310	Phoenix	Charlotte	-13.0	600	-750	115	122	-7
+20180310	San Antonio	Oklahoma City	-4.5	160	-185	94	104	-10
+20180310	Washington	Miami	-4.0	163	-173	102	129	-27
+20180310	Memphis	Dallas	-8.5	355	-400	80	114	-34
+20180310	Orlando	L.A. Clippers	-11.5	625	-785	105	113	-8
+20180311	Toronto	New York	9.5	-460	410	132	106	26
+20180311	Golden State	Minnesota	5.0	-200	185	103	109	-6
+20180311	Sacramento	Denver	-11.5	575	-850	104	130	-26
+20180311	Indiana	Boston	-6.5	230	-250	99	97	2
+20180311	Chicago	Atlanta	-3.0	125	-135	129	122	7
+20180311	Utah	New Orleans	12.5	-150	130	116	99	17
+20180311	Houston	Dallas	12.5	-450	400	105	82	23
+20180311	Philadelphia	Brooklyn	6.5	-240	220	120	97	23
+20180311	Cleveland	L.A. Lakers	2.0	-130	120	113	127	-14
+20180312	Milwaukee	Memphis	7.0	-290	260	121	103	18
+20180312	San Antonio	Houston	-13.0	650	-1000	93	109	-16
+20180312	Sacramento	Oklahoma City	-12.0	600	-900	101	106	-5
+20180312	Miami	Portland	-8.0	270	-330	99	115	-16
+20180313	Minnesota	Washington	-4.0	150	-170	116	111	5
+20180313	Toronto	Brooklyn	9.5	-450	360	116	102	14
+20180313	Oklahoma City	Atlanta	5.5	-230	210	119	107	12
+20180313	Charlotte	New Orleans	-4.5	165	-190	115	119	-4
+20180313	Detroit	Utah	-8.0	300	-360	79	110	-31
+20180313	Indiana	Philadelphia	-5.5	185	-225	101	98	3
+20180313	Dallas	New York	2.5	-130	110	110	97	13
+20180313	L.A. Clippers	Chicago	6.0	-255	215	112	106	6
+20180313	Orlando	San Antonio	-10.0	375	-470	72	108	-36
+20180313	Cleveland	Phoenix	7.0	-270	230	129	107	22
+20180313	Denver	L.A. Lakers	2.0	-120	110	103	112	-9
+20180314	Milwaukee	Orlando	8.0	-360	300	117	126	-9
+20180314	Miami	Sacramento	6.5	-270	230	119	123	-4
+20180314	Washington	Boston	2.0	-130	110	125	124	1
+20180314	L.A. Lakers	Golden State	-7.5	210	-270	106	117	-11
+20180315	Toronto	Indiana	3.5	-175	155	106	99	7
+20180315	Philadelphia	New York	9.0	-465	370	118	110	8
+20180315	Chicago	Memphis	-1.5	-105	-115	111	110	1
+20180315	Phoenix	Utah	-12.0	625	-950	88	116	-28
+20180315	Charlotte	Atlanta	4.5	-185	160	129	117	12
+20180315	L.A. Clippers	Houston	-11.0	500	-700	96	101	-5
+20180315	New Orleans	San Antonio	-3.5	145	-165	93	98	-5
+20180315	Detroit	Denver	-7.5	280	-340	113	120	-7
+20180315	Cleveland	Portland	-4.5	165	-190	105	113	-8
+20180316	Boston	Orlando	6.5	-240	220	92	83	9
+20180316	Dallas	Toronto	-11.5	600	-750	115	122	-7
+20180316	Sacramento	Golden State	-11.0	550	-800	98	93	5
+20180316	Brooklyn	Philadelphia	-9.0	345	-385	116	120	-4
+20180316	L.A. Clippers	Oklahoma City	-4.0	155	-175	113	121	-8
+20180316	Miami	L.A. Lakers	-3.5	155	-175	92	91	1
+20180317	Atlanta	Milwaukee	-11.0	550	-800	117	122	-5
+20180317	Houston	New Orleans	6.5	-300	250	107	101	6
+20180317	Charlotte	New York	6.0	-270	230	101	124	-23
+20180317	Cleveland	Chicago	6.0	-265	245	114	109	5
+20180317	Sacramento	Utah	-15.0	1050	-1300	97	103	-6
+20180317	Indiana	Washington	-3.5	160	-170	102	109	-7
+20180317	Dallas	Brooklyn	-2.5	120	-140	106	114	-8
+20180317	Denver	Memphis	6.0	-290	260	94	101	-7
+20180317	Minnesota	San Antonio	-4.5	155	-175	101	117	-16
+20180317	Golden State	Phoenix	3.0	-150	140	124	109	15
+20180317	Detroit	Portland	-8.0	350	-440	87	100	-13
+20180318	Oklahoma City	Toronto	-6.5	220	-240	132	125	7
+20180318	Houston	Minnesota	7.0	-300	270	129	120	9
+20180318	Boston	New Orleans	-3.0	125	-145	89	108	-19
+20180318	Portland	L.A. Clippers	-2.5	120	-130	122	109	13
+20180319	Milwaukee	Cleveland	-3.5	125	-145	117	124	-7
+20180319	Charlotte	Philadelphia	-7.5	300	-360	94	108	-14
+20180319	Chicago	New York	-5.5	185	-225	92	110	-18
+20180319	Golden State	San Antonio	-6.5	225	-265	75	89	-14
+20180319	L.A. Lakers	Indiana	-5.0	160	-185	100	110	-10
+20180319	Denver	Miami	-1.5	115	-125	141	149	-8
+20180319	Memphis	Brooklyn	-5.0	165	-190	115	118	-3
+20180319	Detroit	Sacramento	2.5	-145	125	106	90	16
+20180320	Toronto	Orlando	10.0	-600	450	93	86	7
+20180320	L.A. Clippers	Minnesota	-3.0	135	-155	109	123	-14
+20180320	Atlanta	Utah	-13.0	800	-1250	99	94	5
+20180320	Dallas	New Orleans	-9.0	365	-460	105	115	-10
+20180320	Oklahoma City	Boston	3.0	-155	135	99	100	-1
+20180320	Detroit	Phoenix	6.0	-250	210	115	88	27
+20180320	Houston	Portland	4.5	-200	170	115	111	4
+20180321	Toronto	Cleveland	-1.0	108	-118	129	132	-3
+20180321	New York	Miami	-10.0	485	-670	98	119	-21
+20180321	L.A. Clippers	Milwaukee	-4.0	175	-210	127	120	7
+20180321	Indiana	New Orleans	-1.0	-102	-118	92	96	-4
+20180321	Memphis	Philadelphia	-13.0	625	-950	105	119	-14
+20180321	Charlotte	Brooklyn	0.0	-110	-110	111	105	6
+20180321	Denver	Chicago	9.0	-475	380	135	102	33
+20180321	Washington	San Antonio	-5.0	175	-210	90	98	-8
+20180322	Philadelphia	Orlando	7.0	-300	250	118	98	20
+20180322	L.A. Lakers	New Orleans	-3.0	140	-150	125	128	-3
+20180322	Utah	Dallas	8.0	-350	290	119	112	7
+20180322	Memphis	Charlotte	-9.0	420	-475	79	140	-61
+20180322	Detroit	Houston	-12.5	900	-1100	96	100	-4
+20180322	Atlanta	Sacramento	-2.0	110	-130	90	105	-15
+20180323	L.A. Clippers	Indiana	-2.5	125	-145	104	109	-5
+20180323	Minnesota	New York	6.5	-275	235	108	104	4
+20180323	Brooklyn	Toronto	-12.0	775	-1200	112	116	-4
+20180323	Milwaukee	Chicago	5.0	-210	175	118	105	13
+20180323	Boston	Portland	-6.5	235	-275	105	100	5
+20180323	Denver	Washington	-1.5	105	-125	108	100	8
+20180323	Phoenix	Cleveland	-13.0	735	-1350	95	120	-25
+20180323	Miami	Oklahoma City	-6.5	240	-280	99	105	-6
+20180323	Utah	San Antonio	-3.0	135	-155	120	124	-4
+20180323	Atlanta	Golden State	-9.0	365	-460	94	106	-12
+20180324	Minnesota	Philadelphia	-7.0	245	-290	108	120	-12
+20180324	Phoenix	Orlando	-6.0	205	-245	99	105	-6
+20180324	New Orleans	Houston	-8.5	325	-400	91	114	-23
+20180324	Chicago	Detroit	-11.5	650	-1000	95	117	-22
+20180324	L.A. Lakers	Memphis	5.0	-210	175	100	93	7
+20180324	Charlotte	Dallas	1.0	-117	-103	102	98	4
+20180325	Cleveland	Brooklyn	6.5	-275	235	121	114	7
+20180325	Miami	Indiana	-4.0	150	-170	107	113	-6
+20180325	New York	Washington	-10.0	450	-600	101	97	4
+20180325	Portland	Oklahoma City	-3.0	130	-150	108	105	3
+20180325	San Antonio	Milwaukee	2.5	-140	120	103	106	-3
+20180325	Boston	Sacramento	6.0	-245	205	104	93	11
+20180325	L.A. Clippers	Toronto	-8.0	305	-365	117	106	11
+20180325	Atlanta	Houston	-14.5	800	-1250	99	118	-19
+20180325	Utah	Golden State	3.0	-150	130	110	91	19
+20180326	L.A. Lakers	Detroit	-4.5	160	-185	106	112	-6
+20180326	Denver	Philadelphia	-5.5	185	-225	104	123	-19
+20180326	New York	Charlotte	-11.5	575	-850	128	137	-9
+20180326	Memphis	Minnesota	-14.0	925	-1400	101	93	8
+20180326	Boston	Phoenix	10.0	-420	335	102	94	8
+20180327	San Antonio	Washington	1.5	-115	105	106	116	-10
+20180327	Portland	New Orleans	-1.5	105	-115	107	103	4
+20180327	Cleveland	Miami	4.0	-155	135	79	98	-19
+20180327	Milwaukee	L.A. Clippers	-3.0	135	-145	98	105	-7
+20180327	Denver	Toronto	-9.0	360	-450	110	114	-4
+20180327	Chicago	Houston	-17.5	1050	-1600	86	118	-32
+20180327	Dallas	Sacramento	-1.5	100	-120	103	97	6
+20180327	Indiana	Golden State	5.0	-190	165	92	81	11
+20180328	Brooklyn	Orlando	1.5	-125	105	111	104	7
+20180328	Cleveland	Charlotte	1.5	-125	105	118	105	13
+20180328	Portland	Memphis	5.5	-240	200	103	108	-5
+20180328	L.A. Clippers	Phoenix	9.5	-550	468	111	99	12
+20180328	New York	Philadelphia	-12.5	800	-1250	101	118	-17
+20180328	Atlanta	Minnesota	-12.5	800	-1000	114	126	-12
+20180328	Boston	Utah	-6.5	240	-280	97	94	3
+20180328	Dallas	L.A. Lakers	-7.5	280	-310	93	103	-10
+20180329	Washington	Detroit	-1.0	-102	-118	92	103	-11
+20180329	Oklahoma City	San Antonio	-1.0	-125	-105	99	103	-4
+20180329	Chicago	Miami	-13.0	850	-1300	92	103	-11
+20180329	Indiana	Sacramento	7.5	-330	270	106	103	3
+20180329	Milwaukee	Golden State	-3.5	170	-200	116	107	9
+20180330	Chicago	Orlando	-6.5	220	-260	90	82	8
+20180330	New Orleans	Cleveland	-4.0	165	-175	102	107	-5
+20180330	Phoenix	Houston	-3.5	1750	-2300	103	104	-1
+20180330	Memphis	Utah	-15.0	1200	-1500	97	107	-10
+20180330	Philadelphia	Atlanta	7.5	-315	285	101	91	10
+20180330	Denver	Oklahoma City	-3.0	135	-155	126	125	1
+20180330	Minnesota	Dallas	5.5	-230	190	93	92	1
+20180330	Milwaukee	L.A. Lakers	0.0	-107	-123	124	122	2
+20180330	L.A. Clippers	Portland	-6.0	205	-245	96	105	-9
+20180331	Charlotte	Washington	-5.5	195	-235	93	107	-14
+20180331	Toronto	Boston	3.5	-170	150	99	110	-11
+20180331	Detroit	New York	3.5	-160	140	115	109	6
+20180331	Brooklyn	Miami	-7.5	275	-335	110	109	1
+20180331	Golden State	Sacramento	8.5	-380	315	112	96	16
+20180401	Philadelphia	Charlotte	2.0	-140	120	119	102	17
+20180401	Houston	San Antonio	2.0	-132	112	83	100	-17
+20180401	Dallas	Cleveland	-11.0	550	-750	87	98	-11
+20180401	Orlando	Atlanta	-2.0	110	-130	88	94	-6
+20180401	Utah	Minnesota	1.0	-118	-102	121	97	24
+20180401	Phoenix	Golden State	-15.0	895	-1150	107	117	-10
+20180401	Washington	Chicago	8.0	-345	285	94	113	-19
+20180401	Indiana	L.A. Clippers	-2.5	120	-140	111	104	7
+20180401	Oklahoma City	New Orleans	1.0	-115	-105	109	104	5
+20180401	Detroit	Brooklyn	1.0	-118	-102	108	96	12
+20180401	Milwaukee	Denver	-3.5	155	-175	125	128	-3
+20180401	Memphis	Portland	-14.5	1425	-1850	98	113	-15
+20180401	Sacramento	L.A. Lakers	-7.0	260	-320	84	83	1
+20180403	Brooklyn	Philadelphia	-9.0	360	-450	95	121	-26
+20180403	Atlanta	Miami	-11.5	650	-1000	98	101	-3
+20180403	Washington	Houston	-8.0	260	-320	104	120	-16
+20180403	Golden State	Oklahoma City	-3.5	140	-160	111	107	4
+20180403	Portland	Dallas	9.0	-450	360	109	115	-6
+20180403	L.A. Lakers	Utah	-10.5	550	-800	110	117	-7
+20180403	Toronto	Cleveland	-1.5	105	-125	106	112	-6
+20180403	Orlando	New York	-1.0	-103	-117	97	73	24
+20180403	Boston	Milwaukee	-2.0	110	-130	102	106	-4
+20180403	Charlotte	Chicago	5.5	-220	180	114	120	-6
+20180403	Indiana	Denver	-3.5	150	-170	104	107	-3
+20180403	Sacramento	Phoenix	1.0	-117	-103	94	97	-3
+20180403	San Antonio	L.A. Clippers	1.0	-117	-103	110	113	-3
+20180404	Philadelphia	Detroit	1.0	-117	-103	115	108	7
+20180404	Miami	Atlanta	8.5	-410	330	115	86	29
+20180404	Memphis	New Orleans	-13.0	925	-1400	95	123	-28
+20180404	Dallas	Orlando	1.0	-120	100	100	105	-5
+20180404	Boston	Toronto	-8.0	315	-380	78	96	-18
+20180404	San Antonio	L.A. Lakers	5.5	-240	200	112	122	-10
+20180405	Golden State	Indiana	1.5	-123	103	106	126	-20
+20180405	Washington	Cleveland	-5.5	190	-230	115	119	-4
+20180405	L.A. Clippers	Utah	-7.0	250	-300	95	117	-22
+20180405	Portland	Houston	-10.0	475	-650	94	96	-2
+20180405	Brooklyn	Milwaukee	-8.0	300	-360	119	111	8
+20180405	Minnesota	Denver	-5.0	175	-210	96	100	-4
+20180406	Charlotte	Orlando	5.5	-225	205	137	100	37
+20180406	Atlanta	Washington	-10.5	500	-700	103	97	6
+20180406	Chicago	Boston	-10.0	420	-535	104	111	-7
+20180406	Miami	New York	9.0	-485	385	98	122	-24
+20180406	New Orleans	Phoenix	10.0	-750	525	122	103	19
+20180406	Dallas	Detroit	-7.5	270	-360	106	113	-7
+20180406	Cleveland	Philadelphia	-3.5	145	-155	130	132	-2
+20180406	Indiana	Toronto	-7.5	275	-335	73	92	-19
+20180406	Sacramento	Memphis	4.0	-150	130	94	93	1
+20180406	Minnesota	L.A. Lakers	3.5	-155	135	113	96	17
+20180407	Denver	L.A. Clippers	-1.0	-110	-110	134	115	19
+20180407	Brooklyn	Chicago	5.0	-220	180	124	96	28
+20180407	Oklahoma City	Houston	-6.5	215	-255	108	102	6
+20180407	Milwaukee	New York	9.5	-500	400	115	102	13
+20180407	New Orleans	Golden State	-7.0	245	-290	126	120	6
+20180407	Portland	San Antonio	-3.5	160	-185	105	116	-11
+20180408	Dallas	Philadelphia	-13.0	1000	-1200	97	109	-12
+20180408	Atlanta	Boston	-10.0	450	-525	112	106	6
+20180408	Orlando	Toronto	-13.0	900	-1375	101	112	-11
+20180408	Indiana	Charlotte	2.0	-123	113	123	117	6
+20180408	Detroit	Memphis	5.5	-220	180	117	130	-13
+20180408	Utah	L.A. Lakers	6.0	-325	295	112	97	15
+20180408	Golden State	Phoenix	13.5	-1150	950	117	100	17
+20180409	Toronto	Detroit	3.5	-175	155	108	98	10
+20180409	Chicago	Brooklyn	-8.5	290	-350	105	114	-9
+20180409	Memphis	Minnesota	-15.0	1000	-1500	94	113	-19
+20180409	Sacramento	San Antonio	-13.0	850	-1300	85	98	-13
+20180409	Cleveland	New York	12.0	-800	550	123	109	14
+20180409	Oklahoma City	Miami	2.0	-140	120	115	93	22
+20180409	Orlando	Milwaukee	-10.0	550	-800	86	102	-16
+20180409	Portland	Denver	-3.5	155	-175	82	88	-6
+20180409	New Orleans	L.A. Clippers	5.5	-255	215	113	100	13
+20180410	Charlotte	Indiana	-6.5	240	-280	119	93	26
+20180410	Boston	Washington	-6.5	245	-290	101	113	-12
+20180410	Golden State	Utah	-7.0	245	-290	79	119	-40
+20180410	Philadelphia	Atlanta	9.5	-500	400	121	113	8
+20180410	Phoenix	Dallas	-4.0	150	-180	124	97	27
+20180410	Houston	L.A. Lakers	9.5	-660	445	105	99	6
+20180411	Toronto	Miami	-7.0	170	-200	109	116	-7
+20180411	Milwaukee	Philadelphia	-5.5	260	-320	95	130	-35
+20180411	Memphis	Oklahoma City	-17.5	1500	-3000	123	137	-14
+20180411	Washington	Orlando	4.0	-230	190	92	101	-9
+20180411	Detroit	Chicago	1.5	-125	105	119	87	32
+20180411	Houston	Sacramento	5.5	-155	135	83	96	-13
+20180411	New York	Cleveland	-15.5	1050	-1600	110	98	12
+20180411	Denver	Minnesota	-3.0	130	-150	106	112	-6
+20180411	San Antonio	New Orleans	-3.5	145	-165	98	122	-24
+20180411	Brooklyn	Boston	-3.0	115	-135	97	110	-13
+20180411	Utah	Portland	-3.0	130	-150	93	102	-9
+20180411	L.A. Lakers	L.A. Clippers	-2.5	135	-155	115	100	15

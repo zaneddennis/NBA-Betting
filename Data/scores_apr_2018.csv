@@ -1,0 +1,89 @@
+date,away,away_pts,home,home_pts
+Sun Apr 1 2018,Orlando Magic,88,Atlanta Hawks,94
+Sun Apr 1 2018,Detroit Pistons,108,Brooklyn Nets,96
+Sun Apr 1 2018,Washington Wizards,94,Chicago Bulls,113
+Sun Apr 1 2018,Philadelphia 76ers,119,Charlotte Hornets,102
+Sun Apr 1 2018,Dallas Mavericks,87,Cleveland Cavaliers,98
+Sun Apr 1 2018,Milwaukee Bucks,125,Denver Nuggets,128
+Sun Apr 1 2018,Phoenix Suns,107,Golden State Warriors,117
+Sun Apr 1 2018,Indiana Pacers,111,Los Angeles Clippers,104
+Sun Apr 1 2018,Sacramento Kings,84,Los Angeles Lakers,83
+Sun Apr 1 2018,Utah Jazz,121,Minnesota Timberwolves,97
+Sun Apr 1 2018,Oklahoma City Thunder,109,New Orleans Pelicans,104
+Sun Apr 1 2018,Memphis Grizzlies,98,Portland Trail Blazers,113
+Sun Apr 1 2018,Houston Rockets,83,San Antonio Spurs,100
+Tue Apr 3 2018,Charlotte Hornets,114,Chicago Bulls,120
+Tue Apr 3 2018,Toronto Raptors,106,Cleveland Cavaliers,112
+Tue Apr 3 2018,Portland Trail Blazers,109,Dallas Mavericks,115
+Tue Apr 3 2018,Indiana Pacers,104,Denver Nuggets,107
+Tue Apr 3 2018,Washington Wizards,104,Houston Rockets,120
+Tue Apr 3 2018,San Antonio Spurs,110,Los Angeles Clippers,113
+Tue Apr 3 2018,Atlanta Hawks,98,Miami Heat,101
+Tue Apr 3 2018,Boston Celtics,102,Milwaukee Bucks,106
+Tue Apr 3 2018,Orlando Magic,97,New York Knicks,73
+Tue Apr 3 2018,Golden State Warriors,111,Oklahoma City Thunder,107
+Tue Apr 3 2018,Brooklyn Nets,95,Philadelphia 76ers,121
+Tue Apr 3 2018,Sacramento Kings,94,Phoenix Suns,97
+Tue Apr 3 2018,Los Angeles Lakers,110,Utah Jazz,117
+Wed Apr 4 2018,Miami Heat,115,Atlanta Hawks,86
+Wed Apr 4 2018,Philadelphia 76ers,115,Detroit Pistons,108
+Wed Apr 4 2018,San Antonio Spurs,112,Los Angeles Lakers,122
+Wed Apr 4 2018,Memphis Grizzlies,95,New Orleans Pelicans,123
+Wed Apr 4 2018,Dallas Mavericks,100,Orlando Magic,105
+Wed Apr 4 2018,Boston Celtics,78,Toronto Raptors,96
+Thu Apr 5 2018,Washington Wizards,115,Cleveland Cavaliers,119
+Thu Apr 5 2018,Minnesota Timberwolves,96,Denver Nuggets,100
+Thu Apr 5 2018,Portland Trail Blazers,94,Houston Rockets,96
+Thu Apr 5 2018,Golden State Warriors,106,Indiana Pacers,126
+Thu Apr 5 2018,Brooklyn Nets,119,Milwaukee Bucks,111
+Thu Apr 5 2018,Los Angeles Clippers,95,Utah Jazz,117
+Fri Apr 6 2018,Chicago Bulls,104,Boston Celtics,111
+Fri Apr 6 2018,Dallas Mavericks,106,Detroit Pistons,113
+Fri Apr 6 2018,Minnesota Timberwolves,113,Los Angeles Lakers,96
+Fri Apr 6 2018,Sacramento Kings,94,Memphis Grizzlies,93
+Fri Apr 6 2018,Miami Heat,98,New York Knicks,122
+Fri Apr 6 2018,Charlotte Hornets,137,Orlando Magic,100
+Fri Apr 6 2018,Cleveland Cavaliers,130,Philadelphia 76ers,132
+Fri Apr 6 2018,New Orleans Pelicans,122,Phoenix Suns,103
+Fri Apr 6 2018,Indiana Pacers,73,Toronto Raptors,92
+Fri Apr 6 2018,Atlanta Hawks,103,Washington Wizards,97
+Sat Apr 7 2018,Brooklyn Nets,124,Chicago Bulls,96
+Sat Apr 7 2018,New Orleans Pelicans,126,Golden State Warriors,120
+Sat Apr 7 2018,Oklahoma City Thunder,108,Houston Rockets,102
+Sat Apr 7 2018,Denver Nuggets,134,Los Angeles Clippers,115
+Sat Apr 7 2018,Milwaukee Bucks,115,New York Knicks,102
+Sat Apr 7 2018,Portland Trail Blazers,105,San Antonio Spurs,116
+Sun Apr 8 2018,Atlanta Hawks,112,Boston Celtics,106
+Sun Apr 8 2018,Indiana Pacers,123,Charlotte Hornets,117
+Sun Apr 8 2018,Utah Jazz,112,Los Angeles Lakers,97
+Sun Apr 8 2018,Detroit Pistons,117,Memphis Grizzlies,130
+Sun Apr 8 2018,Dallas Mavericks,97,Philadelphia 76ers,109
+Sun Apr 8 2018,Golden State Warriors,117,Phoenix Suns,100
+Sun Apr 8 2018,Orlando Magic,101,Toronto Raptors,112
+Mon Apr 9 2018,Chicago Bulls,105,Brooklyn Nets,114
+Mon Apr 9 2018,Portland Trail Blazers,82,Denver Nuggets,88
+Mon Apr 9 2018,Toronto Raptors,108,Detroit Pistons,98
+Mon Apr 9 2018,New Orleans Pelicans,113,Los Angeles Clippers,100
+Mon Apr 9 2018,Oklahoma City Thunder,115,Miami Heat,93
+Mon Apr 9 2018,Orlando Magic,86,Milwaukee Bucks,102
+Mon Apr 9 2018,Memphis Grizzlies,94,Minnesota Timberwolves,113
+Mon Apr 9 2018,Cleveland Cavaliers,123,New York Knicks,109
+Mon Apr 9 2018,Sacramento Kings,85,San Antonio Spurs,98
+Tue Apr 10 2018,Philadelphia 76ers,121,Atlanta Hawks,113
+Tue Apr 10 2018,Phoenix Suns,124,Dallas Mavericks,97
+Tue Apr 10 2018,Charlotte Hornets,119,Indiana Pacers,93
+Tue Apr 10 2018,Houston Rockets,105,Los Angeles Lakers,99
+Tue Apr 10 2018,Golden State Warriors,79,Utah Jazz,119
+Tue Apr 10 2018,Boston Celtics,101,Washington Wizards,113
+Wed Apr 11 2018,Brooklyn Nets,97,Boston Celtics,110
+Wed Apr 11 2018,Detroit Pistons,119,Chicago Bulls,87
+Wed Apr 11 2018,New York Knicks,110,Cleveland Cavaliers,98
+Wed Apr 11 2018,Los Angeles Lakers,115,Los Angeles Clippers,100
+Wed Apr 11 2018,Toronto Raptors,109,Miami Heat,116
+Wed Apr 11 2018,Denver Nuggets,106,Minnesota Timberwolves,112
+Wed Apr 11 2018,San Antonio Spurs,98,New Orleans Pelicans,122
+Wed Apr 11 2018,Memphis Grizzlies,123,Oklahoma City Thunder,137
+Wed Apr 11 2018,Washington Wizards,92,Orlando Magic,101
+Wed Apr 11 2018,Milwaukee Bucks,95,Philadelphia 76ers,130
+Wed Apr 11 2018,Utah Jazz,93,Portland Trail Blazers,102
+Wed Apr 11 2018,Houston Rockets,83,Sacramento Kings,96
